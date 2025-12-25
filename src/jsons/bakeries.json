@@ -1,0 +1,8768 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-12-25T17:33:57Z",
+    "timestamp_areas_base": "2025-12-25T14:19:26Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 474653055,
+  "lat": 56.8387088,
+  "lon": 60.5980720,
+  "tags": {
+    "amenity": "cafe",
+    "contact:website": "http://www.domaktera.ru/cnt_item/listing/?p_id=160",
+    "name": "Дебют",
+    "opening_hours": "Mo-Su 12:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 474951725,
+  "lat": 56.8311531,
+  "lon": 60.6028251,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Городские цветы",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 474951728,
+  "lat": 56.8296720,
+  "lon": 60.5854584,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кардиган",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 475949989,
+  "lat": 56.8426554,
+  "lon": 60.6448571,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Вилы",
+    "opening_hours": "closed"
+  }
+},
+{
+  "type": "node",
+  "id": 476261045,
+  "lat": 56.8405255,
+  "lon": 60.6083673,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Дудки"
+  }
+},
+{
+  "type": "node",
+  "id": 476456008,
+  "lat": 56.8357707,
+  "lon": 60.6001892,
+  "tags": {
+    "amenity": "cafe",
+    "name": "ТриО"
+  }
+},
+{
+  "type": "node",
+  "id": 477353592,
+  "lat": 56.8374012,
+  "lon": 60.6269286,
+  "tags": {
+    "name": "Лакомка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 491113565,
+  "lat": 56.8336096,
+  "lon": 60.5969036,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "name:en": "Paul Bakery",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-20:00",
+    "shop": "bakery",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 503401286,
+  "lat": 56.7741585,
+  "lon": 60.6457100,
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "Зимняя улица",
+    "amenity": "cafe",
+    "level": "1",
+    "name": "Family House"
+  }
+},
+{
+  "type": "node",
+  "id": 514618908,
+  "lat": 56.8504973,
+  "lon": 60.6842042,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кировское"
+  }
+},
+{
+  "type": "node",
+  "id": 515663595,
+  "lat": 56.8625640,
+  "lon": 60.6891359,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шарташ"
+  }
+},
+{
+  "type": "node",
+  "id": 538132691,
+  "lat": 56.7610536,
+  "lon": 60.8031145,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Золотая середина"
+  }
+},
+{
+  "type": "node",
+  "id": 563963842,
+  "lat": 56.8373359,
+  "lon": 60.6566479,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:country": "RU",
+    "addr:housenumber": "5",
+    "addr:postcode": "620078",
+    "addr:street": "улица Коминтерна",
+    "amenity": "cafe",
+    "name": "Никита",
+    "name:en": "Nikita",
+    "opening_hours": "Mo-Fr 09:00-16:00",
+    "operator": "УрФУ"
+  }
+},
+{
+  "type": "node",
+  "id": 571136735,
+  "lat": 56.8417768,
+  "lon": 60.6313019,
+  "tags": {
+    "name": "Хлебница",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 579373272,
+  "lat": 56.7980750,
+  "lon": 60.5984287,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Глухомань"
+  }
+},
+{
+  "type": "node",
+  "id": 598705677,
+  "lat": 56.7681240,
+  "lon": 60.8968799,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 610296821,
+  "lat": 56.8401644,
+  "lon": 60.6107130,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Подсолнухи",
+    "website": "https://podsolnuhi.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 610765220,
+  "lat": 56.8554739,
+  "lon": 60.6538717,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Аура"
+  }
+},
+{
+  "type": "node",
+  "id": 612910173,
+  "lat": 56.8321854,
+  "lon": 60.5821636,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 621176405,
+  "lat": 56.8292381,
+  "lon": 60.6359916,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "pizza",
+    "name": "Пан Пицца",
+    "name:en": "Pan Pizza",
+    "name:ru": "Пан Пицца",
+    "opening_hours": "12:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 639133185,
+  "lat": 56.8105803,
+  "lon": 60.7908290,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Уралочка"
+  }
+},
+{
+  "type": "node",
+  "id": 641519723,
+  "lat": 56.8459823,
+  "lon": 60.6501377,
+  "tags": {
+    "addr:housenumber": "90",
+    "addr:street": "Первомайская улица",
+    "amenity": "cafe",
+    "indoor_seating": "yes",
+    "name": "Brodsky",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 660331605,
+  "lat": 56.8455611,
+  "lon": 60.6428253,
+  "tags": {
+    "amenity": "cafe",
+    "name": "кафе Майское"
+  }
+},
+{
+  "type": "node",
+  "id": 660331610,
+  "lat": 56.8454584,
+  "lon": 60.6409907,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "asian",
+    "name": "Аль-Кух"
+  }
+},
+{
+  "type": "node",
+  "id": 663887152,
+  "lat": 56.8361635,
+  "lon": 60.6007240,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Блокпост"
+  }
+},
+{
+  "type": "node",
+  "id": 665493767,
+  "lat": 56.8409571,
+  "lon": 60.6342778,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "6",
+    "addr:postcode": "620062",
+    "addr:street": "улица Чебышёва",
+    "amenity": "cafe",
+    "cuisine": "canteen",
+    "delivery": "no",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "ИНВЕСТТОРГ, столовая",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 665493769,
+  "lat": 56.8439208,
+  "lon": 60.6410611,
+  "tags": {
+    "amenity": "cafe",
+    "name": "ООО Электрон"
+  }
+},
+{
+  "type": "node",
+  "id": 665493770,
+  "lat": 56.8456855,
+  "lon": 60.6396305,
+  "tags": {
+    "addr:housenumber": "75",
+    "addr:street": "Первомайская улица",
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "на Первомайской, 75",
+    "operator": "ООО \"Банаевъ\"",
+    "phone": "+73433745026"
+  }
+},
+{
+  "type": "node",
+  "id": 665493772,
+  "lat": 56.8394204,
+  "lon": 60.6801404,
+  "tags": {
+    "amenity": "cafe",
+    "name": "фонбет",
+    "name:en": "fonbet",
+    "opening_hours": "PH,Mo-Su 00:00-24:00",
+    "phone": "+79226006969"
+  }
+},
+{
+  "type": "node",
+  "id": 678290757,
+  "lat": 56.8337724,
+  "lon": 60.5858425,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шейк"
+  }
+},
+{
+  "type": "node",
+  "id": 700917987,
+  "lat": 56.8459018,
+  "lon": 60.6036973,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кулинария Космос",
+    "operator": "Кулинария Космос",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 700917989,
+  "lat": 56.8482892,
+  "lon": 60.6098184,
+  "tags": {
+    "amenity": "cafe",
+    "name": "TashKent"
+  }
+},
+{
+  "type": "node",
+  "id": 710312269,
+  "lat": 56.8313702,
+  "lon": 60.5886109,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "lux888@e1.ru",
+    "contact:instagram": "https://instagram.com/pirogi_ekat",
+    "contact:phone": "+73433792550",
+    "contact:vk": "https://vk.com/kulinarialuxru",
+    "contact:website": "https://www.kulinarialux.ru/",
+    "name": "Люкс",
+    "opening_hours": "Mo-Sa 09:00-21:00;Su 09:00-19:00",
+    "operator": "Люкс",
+    "shop": "department_store"
+  }
+},
+{
+  "type": "node",
+  "id": 731242342,
+  "lat": 56.8695689,
+  "lon": 60.5538003,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Заравшан"
+  }
+},
+{
+  "type": "node",
+  "id": 757999003,
+  "lat": 56.8429712,
+  "lon": 60.6051705,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Штолле",
+    "brand:en": "Stolle",
+    "brand:wikidata": "Q62502236",
+    "cuisine": "coffee_shop",
+    "int_name": "Stolle",
+    "name": "Штолле",
+    "name:en": "Stolle",
+    "opening_hours": "Mo-Su 10:00-22:00; Fr,Sa 10:00-24:00",
+    "operator": "Штолле",
+    "phone": "+73433457045",
+    "takeaway": "yes",
+    "website": "https://ekb.stolle.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 758595387,
+  "lat": 56.8376530,
+  "lon": 60.5862887,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Изумруд",
+    "name:ja": "イズムルド",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 759586516,
+  "lat": 56.8308243,
+  "lon": 60.6130786,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Петров двор"
+  }
+},
+{
+  "type": "node",
+  "id": 773456500,
+  "lat": 56.8399664,
+  "lon": 60.6107398,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "name:en": "Paul Bakery",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 10:00-21:00",
+    "shop": "bakery",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 787229871,
+  "lat": 56.8090338,
+  "lon": 60.7676757,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пельмешка"
+  }
+},
+{
+  "type": "node",
+  "id": 798005163,
+  "lat": 56.8332977,
+  "lon": 60.5916626,
+  "tags": {
+    "amenity": "cafe",
+    "contact:website": "http://www.panpizza.ru/",
+    "cuisine": "pizza",
+    "name": "Пан Пицца",
+    "opening_hours": "Su-Th 10:00-23:00; Fr-Sa 10:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 811805859,
+  "lat": 56.7843572,
+  "lon": 60.5311845,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Берлога"
+  }
+},
+{
+  "type": "node",
+  "id": 815130720,
+  "lat": 56.8361754,
+  "lon": 60.6886100,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Русь",
+    "opening_hours": "Su-Th 10:00-18:00, Fr-Sa 10:00-23:00",
+    "phone": "+7 (343) 310-81-48"
+  }
+},
+{
+  "type": "node",
+  "id": 820874805,
+  "lat": 56.8299910,
+  "lon": 60.5943571,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Room"
+  }
+},
+{
+  "type": "node",
+  "id": 820874806,
+  "lat": 56.8299528,
+  "lon": 60.5940406,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Райсан"
+  }
+},
+{
+  "type": "node",
+  "id": 824033641,
+  "lat": 56.8376938,
+  "lon": 60.6000375,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Маммас",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 831613653,
+  "lat": 56.8390450,
+  "lon": 60.6323810,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Sanssario"
+  }
+},
+{
+  "type": "node",
+  "id": 837839149,
+  "lat": 56.8365393,
+  "lon": 60.5822065,
+  "tags": {
+    "name": "Мадам Эклер",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-17:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 844548969,
+  "lat": 56.7829125,
+  "lon": 60.6531522,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Восточное",
+    "name:ru": "Дадаш"
+  }
+},
+{
+  "type": "node",
+  "id": 845860396,
+  "lat": 56.8126361,
+  "lon": 60.5473371,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Премиум"
+  }
+},
+{
+  "type": "node",
+  "id": 847540308,
+  "lat": 56.8438322,
+  "lon": 60.6051978,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Усадьба"
+  }
+},
+{
+  "type": "node",
+  "id": 847667786,
+  "lat": 56.8350306,
+  "lon": 60.6127259,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шоко"
+  }
+},
+{
+  "type": "node",
+  "id": 882668359,
+  "lat": 56.8383212,
+  "lon": 60.6087194,
+  "tags": {
+    "name": "Золотой марципан",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa 08:30-21:00; Su 09:00-21:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "bakery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 897349453,
+  "lat": 56.8138609,
+  "lon": 60.6095397,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Лагман"
+  }
+},
+{
+  "type": "node",
+  "id": 914231511,
+  "lat": 56.8734694,
+  "lon": 60.6320023,
+  "tags": {
+    "addr:floor": "2",
+    "amenity": "cafe",
+    "name": "Кафетерий"
+  }
+},
+{
+  "type": "node",
+  "id": 927997765,
+  "lat": 56.8224532,
+  "lon": 60.6307417,
+  "tags": {
+    "name": "Хлебничная",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 931480164,
+  "lat": 56.8123131,
+  "lon": 60.6090891,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "101",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "check_date": "2024-10-12",
+    "cuisine": "georgian",
+    "name": "Хинкали",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+7 (343) 251‒29‒20",
+    "website": "https://xinkali.gorpom.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 936472447,
+  "lat": 56.7959977,
+  "lon": 60.6296530,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Макрус"
+  }
+},
+{
+  "type": "node",
+  "id": 940353310,
+  "lat": 56.8317184,
+  "lon": 60.6935392,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Амика"
+  }
+},
+{
+  "type": "node",
+  "id": 942207797,
+  "lat": 56.7817667,
+  "lon": 60.6106660,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая техникума РТИ"
+  }
+},
+{
+  "type": "node",
+  "id": 942694663,
+  "lat": 56.8494258,
+  "lon": 60.6071622,
+  "tags": {
+    "name": "Горячий хлеб",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 956653801,
+  "lat": 56.8348708,
+  "lon": 60.6090554,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Шоколадница",
+    "brand:en": "Chocolate",
+    "brand:wikidata": "Q30891188",
+    "brand:wikipedia": "ru:Шоколадница (сеть кофеен)",
+    "cuisine": "coffee_shop",
+    "name": "Шоколадница",
+    "name:en": "Shokoladnitsa",
+    "name:ru": "Шоколадница",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00",
+    "phone": "+7 912 270-50-49",
+    "takeaway": "yes",
+    "website": "https://shoko.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 957409736,
+  "lat": 56.8808816,
+  "lon": 60.6188126,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 961750773,
+  "lat": 56.8187882,
+  "lon": 60.6678534,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Сибирский трактиръ"
+  }
+},
+{
+  "type": "node",
+  "id": 964623863,
+  "lat": 56.8358430,
+  "lon": 60.6215652,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-08-10",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-20:00",
+    "shop": "bakery",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 975713245,
+  "lat": 56.8395288,
+  "lon": 60.6182270,
+  "tags": {
+    "name": "Европейская пекарня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 988556832,
+  "lat": 56.8611699,
+  "lon": 60.6427172,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Мечта"
+  }
+},
+{
+  "type": "node",
+  "id": 991623184,
+  "lat": 56.8604150,
+  "lon": 60.6485172,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "7Б",
+    "addr:street": "улица Сулимова",
+    "amenity": "cafe",
+    "check_date": "2024-10-07",
+    "contact:vk": "https://vk.com/nhatrangkafe",
+    "cuisine": "vietnamese",
+    "level": "0",
+    "name": "Нячанг Сити",
+    "name:en": "Nha Trang City",
+    "opening_hours": "11:00-22:00",
+    "operator": "ИП Дау М. ИНН 632140343920",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+7 965 533-68-86",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 991660442,
+  "lat": 56.8563943,
+  "lon": 60.6403256,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Круиз"
+  }
+},
+{
+  "type": "node",
+  "id": 991718771,
+  "lat": 56.8297323,
+  "lon": 60.6382048,
+  "tags": {
+    "amenity": "cafe",
+    "contact:website": "http://restoranoasis.ru/",
+    "name": "Оазис"
+  }
+},
+{
+  "type": "node",
+  "id": 991726334,
+  "lat": 56.8405602,
+  "lon": 60.6570247,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Старый Дамаск"
+  }
+},
+{
+  "type": "node",
+  "id": 991736383,
+  "lat": 56.8428726,
+  "lon": 60.6467056,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:street": "улица Гагарина",
+    "amenity": "cafe",
+    "cuisine": "asian",
+    "name": "BOBO TEA",
+    "opening_hours": "Mo-Su 10:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 991776253,
+  "lat": 56.8546567,
+  "lon": 60.6453897,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Мак Донер",
+    "source": "notes",
+    "was:name": "Морковь",
+    "was:shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 993550648,
+  "lat": 56.8315333,
+  "lon": 60.5873374,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кушать подано"
+  }
+},
+{
+  "type": "node",
+  "id": 1020985438,
+  "lat": 56.8375753,
+  "lon": 60.6063830,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Дамаск",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 1022420169,
+  "lat": 56.8352905,
+  "lon": 60.6070140,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "35",
+    "addr:street": "улица Горького",
+    "check_date": "2022-08-10",
+    "name": "Европейская пекарня",
+    "opening_hours": "08:00-20:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 912 206-77-66",
+    "shop": "bakery",
+    "website": "https://evropek.ru/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1025882052,
+  "lat": 56.9054312,
+  "lon": 60.6308120,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Рафаэль"
+  }
+},
+{
+  "type": "node",
+  "id": 1033398188,
+  "lat": 56.9198091,
+  "lon": 60.6110006,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Турист"
+  }
+},
+{
+  "type": "node",
+  "id": 1035847449,
+  "lat": 56.8547111,
+  "lon": 60.6609509,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Урал"
+  }
+},
+{
+  "type": "node",
+  "id": 1080419218,
+  "lat": 56.8240738,
+  "lon": 60.6935238,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Элат"
+  }
+},
+{
+  "type": "node",
+  "id": 1082313838,
+  "lat": 56.8243354,
+  "lon": 60.5056700,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Шоколадница",
+    "brand:en": "Chocolate",
+    "brand:wikidata": "Q30891188",
+    "brand:wikipedia": "ru:Шоколадница (сеть кофеен)",
+    "cuisine": "coffee_shop",
+    "name": "Шоколадница",
+    "name:en": "Shokoladnitsa",
+    "operator": "Шоколадница",
+    "smoking": "yes",
+    "takeaway": "yes",
+    "website": "https://shoko.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1106573906,
+  "lat": 56.8508187,
+  "lon": 60.5887480,
+  "tags": {
+    "amenity": "cafe",
+    "name": "На горке"
+  }
+},
+{
+  "type": "node",
+  "id": 1108653908,
+  "lat": 56.8243058,
+  "lon": 60.6162313,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "kebab",
+    "name": "Шашлыкян и Шампуридзе"
+  }
+},
+{
+  "type": "node",
+  "id": 1132610566,
+  "lat": 56.8381284,
+  "lon": 60.6361503,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая ООО \"Лев\"",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1138995612,
+  "lat": 56.7887707,
+  "lon": 60.7756034,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1138997565,
+  "lat": 56.7876082,
+  "lon": 60.7823003,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1167002737,
+  "lat": 56.8878868,
+  "lon": 60.5877147,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Сим-Сим"
+  }
+},
+{
+  "type": "node",
+  "id": 1171658180,
+  "lat": 56.9074484,
+  "lon": 60.6026151,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Плакучая Ива"
+  }
+},
+{
+  "type": "node",
+  "id": 1184188521,
+  "lat": 56.8870848,
+  "lon": 60.5869800,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Погребок"
+  }
+},
+{
+  "type": "node",
+  "id": 1184688438,
+  "lat": 56.8879810,
+  "lon": 60.5943035,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пельменная"
+  }
+},
+{
+  "type": "node",
+  "id": 1184689101,
+  "lat": 56.8884670,
+  "lon": 60.5949246,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кальян"
+  }
+},
+{
+  "type": "node",
+  "id": 1194384759,
+  "lat": 56.8338088,
+  "lon": 60.5997032,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кофейня №7",
+    "operator": "Кофейня №7"
+  }
+},
+{
+  "type": "node",
+  "id": 1202031872,
+  "lat": 56.8090588,
+  "lon": 60.6127247,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пати Шах",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 1219570420,
+  "lat": 56.8314049,
+  "lon": 60.5969381,
+  "tags": {
+    "name": "Синнабон",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1224878809,
+  "lat": 56.8815253,
+  "lon": 60.5411926,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Настроение"
+  }
+},
+{
+  "type": "node",
+  "id": 1272252657,
+  "lat": 56.8401169,
+  "lon": 60.6088018,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "21",
+    "addr:street": "улица Толмачёва",
+    "name": "Maria",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "shop": "confectionery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1273214237,
+  "lat": 56.8732918,
+  "lon": 60.6571768,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая",
+    "opening_hours": "Mo-Fr 11:00-16:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1273314796,
+  "lat": 56.8558521,
+  "lon": 60.6059317,
+  "tags": {
+    "amenity": "cafe",
+    "name": "огонь. бургер. бар."
+  }
+},
+{
+  "type": "node",
+  "id": 1277942596,
+  "lat": 56.8418125,
+  "lon": 60.6092874,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bakery",
+    "name": "Кулинария Космос",
+    "operator": "Кулинария Космос",
+    "website": "https://www.kosmos-rk.ru/kulinariya/"
+  }
+},
+{
+  "type": "node",
+  "id": 1305966719,
+  "lat": 56.8408082,
+  "lon": 60.6541512,
+  "tags": {
+    "name": "Пекарушка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1322252349,
+  "lat": 56.8511223,
+  "lon": 60.6167960,
+  "tags": {
+    "email": "biz@pirogi.ru",
+    "name": "Пироги.Ру",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "+73432887788",
+    "shop": "bakery",
+    "website": "https://pirogi.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 1326012820,
+  "lat": 56.8335425,
+  "lon": 60.5964795,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "contact:email": "vilkaml2019@gmail.com",
+    "contact:phone": "+7 343 3573391",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 1327080008,
+  "lat": 56.8349907,
+  "lon": 60.5928719,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ситора",
+    "name:ru": "Ситора"
+  }
+},
+{
+  "type": "node",
+  "id": 1332588044,
+  "lat": 56.8571099,
+  "lon": 60.6044594,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая Масленица",
+    "opening_hours": "Mo-Su 07:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1335898310,
+  "lat": 56.8745082,
+  "lon": 60.6898391,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Закусочная Шарташ",
+    "name:ru": "Закусочная Берег"
+  }
+},
+{
+  "type": "node",
+  "id": 1341923093,
+  "lat": 56.8349491,
+  "lon": 60.5828440,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Лаззат"
+  }
+},
+{
+  "type": "node",
+  "id": 1341940093,
+  "lat": 56.8335459,
+  "lon": 60.5925681,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Simple coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 1353438711,
+  "lat": 56.8372688,
+  "lon": 60.5985094,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Бистро"
+  }
+},
+{
+  "type": "node",
+  "id": 1365223322,
+  "lat": 56.8334870,
+  "lon": 60.5930069,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Street cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1375447265,
+  "lat": 56.8855936,
+  "lon": 60.5950945,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Эдем"
+  }
+},
+{
+  "type": "node",
+  "id": 1388506059,
+  "lat": 56.8869335,
+  "lon": 60.5268381,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "pizza",
+    "name": "Оливье"
+  }
+},
+{
+  "type": "node",
+  "id": 1392665219,
+  "lat": 56.8479658,
+  "lon": 60.6207636,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Поешь-ка"
+  }
+},
+{
+  "type": "node",
+  "id": 1397320319,
+  "lat": 56.8376905,
+  "lon": 60.5465664,
+  "tags": {
+    "contact:phone": "+7 343 3442526;+7 905 8018231",
+    "contact:website": "https://zlatapechka.ru",
+    "name": "Злата печка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1416608826,
+  "lat": 56.8243379,
+  "lon": 60.5048189,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Cinnabon",
+    "brand:wikidata": "Q1092539",
+    "brand:wikipedia": "en:Cinnabon",
+    "contact:email": "104932@megagroup.com.ru",
+    "contact:phone": "+7 343 2879745",
+    "contact:website": "http://cinnabonrussia.com/",
+    "cuisine": "cake",
+    "name": "Cinnabon",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Cinnabon",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1418202855,
+  "lat": 56.8309596,
+  "lon": 60.6187406,
+  "tags": {
+    "name": "Европейская пекарня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1423906354,
+  "lat": 56.8562887,
+  "lon": 60.6535118,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "2д",
+    "addr:street": "Комсомольская улица",
+    "amenity": "cafe",
+    "check_date": "2025-11-18",
+    "cuisine": "shawarma",
+    "level": "0",
+    "name": "СЫТОешка",
+    "opening_hours": "24/7",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:sbp": "yes",
+    "phone": "+7 922 108-10-00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1426228578,
+  "lat": 56.8919795,
+  "lon": 60.5923123,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чаплин"
+  }
+},
+{
+  "type": "node",
+  "id": 1446941483,
+  "lat": 56.8340922,
+  "lon": 60.5850863,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Большая Медведица"
+  }
+},
+{
+  "type": "node",
+  "id": 1468294459,
+  "lat": 56.8365193,
+  "lon": 60.5944340,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "german",
+    "name": "Дас колбас",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1476699943,
+  "lat": 56.8094164,
+  "lon": 60.5501067,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Буфет"
+  }
+},
+{
+  "type": "node",
+  "id": 1490234279,
+  "lat": 56.8412305,
+  "lon": 60.6266834,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "cuisine": "bakery",
+    "name": "Французский пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00;Sa 08:00-22:00;Su 08:00-21:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 1496322154,
+  "lat": 56.7858353,
+  "lon": 60.6082933,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Хазар"
+  }
+},
+{
+  "type": "node",
+  "id": 1544000287,
+  "lat": 56.8412301,
+  "lon": 60.5929616,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Демидовъ",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1546772408,
+  "lat": 56.8357371,
+  "lon": 60.6211294,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "asian",
+    "description": "Узбекская кухня",
+    "name": "Сарбон"
+  }
+},
+{
+  "type": "node",
+  "id": 1546773898,
+  "lat": 56.8291866,
+  "lon": 60.6170418,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "contact:website": "http://www.panpizza.ru/",
+    "cuisine": "pizza",
+    "name": "Пан Пицца",
+    "operator": "Пан Пицца"
+  }
+},
+{
+  "type": "node",
+  "id": 1577946585,
+  "lat": 56.8642943,
+  "lon": 60.5924159,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 1592443662,
+  "lat": 56.7526594,
+  "lon": 60.7048667,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1603749949,
+  "lat": 56.9064910,
+  "lon": 60.6145436,
+  "tags": {
+    "name": "Смак",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 1637732054,
+  "lat": 56.8398069,
+  "lon": 60.6197849,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00",
+    "shop": "bakery",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1637732055,
+  "lat": 56.8409767,
+  "lon": 60.6143934,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кефир"
+  }
+},
+{
+  "type": "node",
+  "id": 1649967690,
+  "lat": 56.7941283,
+  "lon": 60.7731465,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1674296640,
+  "lat": 56.8301978,
+  "lon": 60.5915617,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "name": "Тихвинъ",
+    "website": "http://www.tikhvin-dom.ru/accretion/cafe-Tihvin"
+  }
+},
+{
+  "type": "node",
+  "id": 1684503052,
+  "lat": 56.8353306,
+  "lon": 60.5991618,
+  "tags": {
+    "alt_name": "Трэвэлерс кофе",
+    "amenity": "cafe",
+    "brand": "Traveler's Coffee",
+    "brand:wikidata": "Q4051716",
+    "brand:wikipedia": "ru:Traveler’s Coffee",
+    "contact:website": "http://www.travelerscoffee.ru/",
+    "cuisine": "coffee_shop",
+    "int_name": "Traveler's Coffee",
+    "internet_access": "wlan",
+    "name": "Traveler's Coffee",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1699798634,
+  "lat": 56.8433466,
+  "lon": 60.6938591,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 1707055113,
+  "lat": 56.9138493,
+  "lon": 60.6100351,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Аза"
+  }
+},
+{
+  "type": "node",
+  "id": 1719070001,
+  "lat": 56.8957757,
+  "lon": 60.6390872,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1736484352,
+  "lat": 56.8396539,
+  "lon": 60.6849412,
+  "tags": {
+    "addr:housenumber": "18Д",
+    "addr:street": "улица Владимира Высоцкого",
+    "amenity": "cafe",
+    "name": "Вилла"
+  }
+},
+{
+  "type": "node",
+  "id": 1740978007,
+  "lat": 56.8367818,
+  "lon": 60.6235282,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Золотое яблоко"
+  }
+},
+{
+  "type": "node",
+  "id": 1771625616,
+  "lat": 56.8381156,
+  "lon": 60.6112966,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-kl13@yandex.ru",
+    "contact:phone": "+7 343 3573052",
+    "contact:website": "https://vilka-lozhka.com",
+    "cost:coffee": "$1.5",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 1775040714,
+  "lat": 56.7779856,
+  "lon": 60.7179829,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Оазис"
+  }
+},
+{
+  "type": "node",
+  "id": 1775040869,
+  "lat": 56.7783085,
+  "lon": 60.7162528,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 1798014355,
+  "lat": 56.8325026,
+  "lon": 60.5882667,
+  "tags": {
+    "addr:housenumber": "12Б",
+    "addr:street": "улица Малышева",
+    "amenity": "cafe",
+    "cuisine": "asian",
+    "name": "ODjah",
+    "opening_hours": "Su-Th 12:00-0:00; Fr-Sa 12:00-2:00",
+    "phone": "+7 (343) 271-20-20"
+  }
+},
+{
+  "type": "node",
+  "id": 1811928392,
+  "lat": 56.8037953,
+  "lon": 60.7868716,
+  "tags": {
+    "amenity": "cafe",
+    "description": "Летнее - это просто название. Кафе работает в любое время года",
+    "name": "Летнее кафе"
+  }
+},
+{
+  "type": "node",
+  "id": 1841670921,
+  "lat": 56.7913837,
+  "lon": 60.6471799,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Тропик-бар «Гамак»"
+  }
+},
+{
+  "type": "node",
+  "id": 1843652445,
+  "lat": 56.8413338,
+  "lon": 60.6118188,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кафе-клуб «Тушь»"
+  }
+},
+{
+  "type": "node",
+  "id": 1845072997,
+  "lat": 56.8471342,
+  "lon": 60.6202894,
+  "tags": {
+    "name": "Lucky хлеб",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "shop": "bakery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1892871512,
+  "lat": 56.8119649,
+  "lon": 60.5752757,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Обедготов"
+  }
+},
+{
+  "type": "node",
+  "id": 1896011995,
+  "lat": 56.8367093,
+  "lon": 60.5944034,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "iva@ekb.food-master.ru",
+    "contact:phone": "+7 343 3573250",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 1898281900,
+  "lat": 56.8455779,
+  "lon": 60.5600168,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пещера"
+  }
+},
+{
+  "type": "node",
+  "id": 1901979690,
+  "lat": 56.8431070,
+  "lon": 60.6264056,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Топ-столовая",
+    "name:ru": "Топ столовая",
+    "opening_hours": "Mo-Fr 09:00-16:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1902632703,
+  "lat": 56.8907056,
+  "lon": 60.6145561,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ассорти"
+  }
+},
+{
+  "type": "node",
+  "id": 1971160722,
+  "lat": 56.8425268,
+  "lon": 60.6438576,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-len70@ya.ru",
+    "contact:phone": "+7 343 3573392",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-20:00",
+    "operator": "ООО \"Технология\""
+  }
+},
+{
+  "type": "node",
+  "id": 2049584212,
+  "lat": 56.8383019,
+  "lon": 60.6335770,
+  "tags": {
+    "name": "Хачапурная №1",
+    "opening_hours": "24/7",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2051366711,
+  "lat": 56.8872749,
+  "lon": 60.5922335,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Малибу",
+    "opening_hours": "Mo-Su 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2103959263,
+  "lat": 56.8304496,
+  "lon": 60.5482525,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Талисман"
+  }
+},
+{
+  "type": "node",
+  "id": 2194133819,
+  "lat": 56.8106318,
+  "lon": 60.6051034,
+  "tags": {
+    "name": "Продукты",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2228874290,
+  "lat": 56.8864729,
+  "lon": 60.6325579,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 2285469671,
+  "lat": 56.8189183,
+  "lon": 60.5166410,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Изумруд",
+    "name:ja": "イズムルド"
+  }
+},
+{
+  "type": "node",
+  "id": 2286378118,
+  "lat": 56.7933188,
+  "lon": 60.5743583,
+  "tags": {
+    "name": "Тор-Шер",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2294519914,
+  "lat": 56.8427971,
+  "lon": 60.6152056,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bakery",
+    "name": "Кулинаръ",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2302258310,
+  "lat": 56.7914333,
+  "lon": 60.5217466,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кулинаръ",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2303332780,
+  "lat": 56.8484157,
+  "lon": 60.6094233,
+  "tags": {
+    "amenity": "cafe",
+    "name": "КакАо-какаО"
+  }
+},
+{
+  "type": "node",
+  "id": 2303332781,
+  "lat": 56.8500120,
+  "lon": 60.6044615,
+  "tags": {
+    "contact:phone": "+73433456692",
+    "name": "Пекара by Петрович",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "bakery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2308393078,
+  "lat": 56.8233794,
+  "lon": 60.6054971,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-08-11",
+    "name": "Simple coffee",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2309623920,
+  "lat": 56.8235642,
+  "lon": 60.5044932,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "cuisine": "french",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2309681001,
+  "lat": 56.8584054,
+  "lon": 60.6051546,
+  "tags": {
+    "name": "Любимые с детства",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 2320345499,
+  "lat": 56.7914264,
+  "lon": 60.5172769,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Папа Джонс",
+    "contact:facebook": "https://www.facebook.com/papajohnsru",
+    "contact:instagram": "https://www.instagram.com/papajohnsru",
+    "contact:vk": "https://vk.com/papajohnsru",
+    "contact:website": "https://www.papajohns.ru",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:vegetarian": "no",
+    "name": "Папа Джонс",
+    "name:en": "Papa John's",
+    "name:ru": "Папа Джонс",
+    "opening_hours": "Mo-Su 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2320345509,
+  "lat": 56.7920466,
+  "lon": 60.5184349,
+  "tags": {
+    "name": "Хлебничная",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2320345510,
+  "lat": 56.7916972,
+  "lon": 60.5170764,
+  "tags": {
+    "cuisine": "bakery",
+    "name": "Пирожковая",
+    "opening_hours": "Mo-Fr 08:30-20:00",
+    "shop": "bakery",
+    "was:amenity": "fast_food"
+  }
+},
+{
+  "type": "node",
+  "id": 2322674834,
+  "lat": 56.8118149,
+  "lon": 60.5917551,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Московское"
+  }
+},
+{
+  "type": "node",
+  "id": 2322674837,
+  "lat": 56.8086672,
+  "lon": 60.5925153,
+  "tags": {
+    "amenity": "cafe",
+    "name": "АмНям"
+  }
+},
+{
+  "type": "node",
+  "id": 2324414806,
+  "lat": 56.8382476,
+  "lon": 60.6087480,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "bakery",
+    "name": "Кулинария Космос",
+    "operator": "Кулинария Космос"
+  }
+},
+{
+  "type": "node",
+  "id": 2325168118,
+  "lat": 56.8492105,
+  "lon": 60.6076278,
+  "tags": {
+    "name": "Смак",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2341555768,
+  "lat": 56.8036608,
+  "lon": 60.6144267,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Три ватрушки",
+    "wifi": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2343022848,
+  "lat": 56.8284914,
+  "lon": 60.6280774,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 2061810",
+    "name": "Эдэм"
+  }
+},
+{
+  "type": "node",
+  "id": 2343022850,
+  "lat": 56.8277829,
+  "lon": 60.6280722,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 2358843111,
+  "lat": 56.8433114,
+  "lon": 60.6277300,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Breadbery"
+  }
+},
+{
+  "type": "node",
+  "id": 2400552741,
+  "lat": 56.9317260,
+  "lon": 60.6146025,
+  "tags": {
+    "amenity": "cafe",
+    "name": "У Вагита"
+  }
+},
+{
+  "type": "node",
+  "id": 2408437532,
+  "lat": 56.8397358,
+  "lon": 60.6191776,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-05",
+    "contact:email": "up-vl-len48@ya.ru",
+    "contact:phone": "+7 343 3790447",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "operator": "ООО \"Вершина вкуса\""
+  }
+},
+{
+  "type": "node",
+  "id": 2410526012,
+  "lat": 56.8480830,
+  "lon": 60.6151953,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+73432241111",
+    "contact:website": "http://sushiwok.ru/ekb/",
+    "cuisine": "asian",
+    "name": "Суши wok",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "takeaway": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2436539686,
+  "lat": 56.8100701,
+  "lon": 60.6223810,
+  "tags": {
+    "name": "СушиWok",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2436539695,
+  "lat": 56.8098008,
+  "lon": 60.6235618,
+  "tags": {
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 2472138653,
+  "lat": 56.8996862,
+  "lon": 60.6102291,
+  "tags": {
+    "amenity": "cafe",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Скороед",
+    "opening_hours": "Mo-Sa 08:00-21:00, Sa,Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2493813401,
+  "lat": 56.7833711,
+  "lon": 60.5410824,
+  "tags": {
+    "name": "Заварка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2509237036,
+  "lat": 56.7827996,
+  "lon": 60.5462405,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:postcode": "620110",
+    "addr:street": "улица Краснолесья",
+    "amenity": "cafe",
+    "cuisine": "georgian",
+    "email": "restoakadem@ya.ru",
+    "internet_access": "wlan",
+    "name": "Сытый папа",
+    "opening_hours": "Mo-Th 12:00-00:00; Fr-Su 12:00-02:00",
+    "phone": "+79120500406",
+    "website": "https://www.paparest.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 2523058181,
+  "lat": 56.8313578,
+  "lon": 60.5989232,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Coffe project"
+  }
+},
+{
+  "type": "node",
+  "id": 2566093768,
+  "lat": 56.8419740,
+  "lon": 60.6314330,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-len83@ya.ru",
+    "contact:phone": "+7 343 3790681",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su 09:00-19:00",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 2601630593,
+  "lat": 56.8306240,
+  "lon": 60.5567434,
+  "tags": {
+    "name": "Дом хлеба",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2618076797,
+  "lat": 56.9082916,
+  "lon": 60.5906852,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пицца"
+  }
+},
+{
+  "type": "node",
+  "id": 2702250983,
+  "lat": 56.8293592,
+  "lon": 60.5629206,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Нирвана"
+  }
+},
+{
+  "type": "node",
+  "id": 2702250984,
+  "lat": 56.8401994,
+  "lon": 60.5694508,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "Пекарня"
+  }
+},
+{
+  "type": "node",
+  "id": 2702250985,
+  "lat": 56.8353653,
+  "lon": 60.5511383,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Татищев"
+  }
+},
+{
+  "type": "node",
+  "id": 2702250986,
+  "lat": 56.8331110,
+  "lon": 60.5653270,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кантри Шик"
+  }
+},
+{
+  "type": "node",
+  "id": 2702250987,
+  "lat": 56.8274639,
+  "lon": 60.5630689,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Фламинго"
+  }
+},
+{
+  "type": "node",
+  "id": 2754524800,
+  "lat": 56.8460824,
+  "lon": 60.6512398,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "92",
+    "addr:postcode": "620049",
+    "addr:street": "Первомайская улица",
+    "amenity": "cafe",
+    "description": "Интернет-кафе, компьюетрный клуб",
+    "indoor_seating": "yes",
+    "internet_access": "yes",
+    "name": "ГеймХаус",
+    "opening_hours": "24/7",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2760386328,
+  "lat": 56.8299233,
+  "lon": 60.5667915,
+  "tags": {
+    "name": "Три ватрушки",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 2766488424,
+  "lat": 56.8386459,
+  "lon": 60.5540993,
+  "tags": {
+    "amenity": "cafe",
+    "name": "La Nuar"
+  }
+},
+{
+  "type": "node",
+  "id": 2805310801,
+  "lat": 56.7763470,
+  "lon": 60.5528746,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Дарья"
+  }
+},
+{
+  "type": "node",
+  "id": 2838677736,
+  "lat": 56.8186636,
+  "lon": 60.6413970,
+  "tags": {
+    "amenity": "cafe",
+    "contact:website": "http://www.cafe51.ru/",
+    "name": "Cafe 51"
+  }
+},
+{
+  "type": "node",
+  "id": 2838677738,
+  "lat": 56.8171718,
+  "lon": 60.6387915,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пельменная"
+  }
+},
+{
+  "type": "node",
+  "id": 2851923861,
+  "lat": 56.8567702,
+  "lon": 60.6015721,
+  "tags": {
+    "amenity": "cafe",
+    "description": "Столовая",
+    "name": "Сыто-место",
+    "opening_hours": "We-Mo 07:00-21:00; Tu 08:00-21:00",
+    "operator": "ООО \"Эридан\""
+  }
+},
+{
+  "type": "node",
+  "id": 2868092801,
+  "lat": 56.7831128,
+  "lon": 60.5406739,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Red Wood Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2882880412,
+  "lat": 56.8464568,
+  "lon": 60.6580540,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2883155338,
+  "lat": 56.8177035,
+  "lon": 60.6095325,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "28",
+    "addr:street": "улица Степана Разина",
+    "check_date": "2024-08-27",
+    "level": "0",
+    "name": "Европейская пекарня",
+    "opening_hours": "09:00-21:00",
+    "shop": "bakery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2894795427,
+  "lat": 56.8665582,
+  "lon": 60.5638322,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Неаполь"
+  }
+},
+{
+  "type": "node",
+  "id": 2908721081,
+  "lat": 56.8372106,
+  "lon": 60.5525483,
+  "tags": {
+    "name": "Магазин печенья",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 2912301789,
+  "lat": 56.8127884,
+  "lon": 60.5457758,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "internet_access": "no",
+    "name": "Производственная столовая",
+    "opening_hours": "Mo-Fr 12:00-15:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2937675253,
+  "lat": 56.8196454,
+  "lon": 60.6407692,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Узбечка"
+  }
+},
+{
+  "type": "node",
+  "id": 2955454219,
+  "lat": 56.8414318,
+  "lon": 60.5818363,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2989101357,
+  "lat": 56.7839764,
+  "lon": 60.5421229,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 2999697291,
+  "lat": 56.8077740,
+  "lon": 60.6110583,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая",
+    "opening_hours": "Mo-Su 10:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3002375860,
+  "lat": 56.7962129,
+  "lon": 60.5146089,
+  "tags": {
+    "name": "Ли-Ли",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa,Su 10:00-21:00",
+    "payment:coins": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 (343) 383-32-55",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3005747767,
+  "lat": 56.8162831,
+  "lon": 60.6233220,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 3054317183,
+  "lat": 56.7563661,
+  "lon": 60.7042001,
+  "tags": {
+    "name": "Бисквитный Двор",
+    "name:ru": "Бисквитный Двор",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3061235847,
+  "lat": 56.8257820,
+  "lon": 60.6718693,
+  "tags": {
+    "opening_hours": "8:00-23:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3097215166,
+  "lat": 56.8316897,
+  "lon": 60.6625762,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кафе"
+  }
+},
+{
+  "type": "node",
+  "id": 3100646385,
+  "lat": 56.7553746,
+  "lon": 60.7098301,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Старый дворик"
+  }
+},
+{
+  "type": "node",
+  "id": 3112455120,
+  "lat": 56.8959921,
+  "lon": 60.6204769,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ностальжи"
+  }
+},
+{
+  "type": "node",
+  "id": 3114260750,
+  "lat": 56.8111597,
+  "lon": 60.6322100,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Хинкали"
+  }
+},
+{
+  "type": "node",
+  "id": 3116313388,
+  "lat": 56.8100154,
+  "lon": 60.6219861,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Домашняя кухня",
+    "opening_hours": "Mo-Sa 08:00-24:00, Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3117935794,
+  "lat": 56.8103350,
+  "lon": 60.6231563,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-bel141@ya.ru",
+    "contact:phone": "+7 343 3573210",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3137064463,
+  "lat": 56.8442828,
+  "lon": 60.6181905,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Лакмусс"
+  }
+},
+{
+  "type": "node",
+  "id": 3145243578,
+  "lat": 56.8490115,
+  "lon": 60.6044715,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Мельковская улица",
+    "amenity": "cafe",
+    "cuisine": "russian",
+    "internet_access": "yes",
+    "name": "Кузня"
+  }
+},
+{
+  "type": "node",
+  "id": 3155097572,
+  "lat": 56.8038055,
+  "lon": 60.5661419,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7-343-311-22-40",
+    "contact:website": "http://www.kreker-cafe.ru/",
+    "internet_access": "wlan",
+    "name": "Крекер",
+    "opening_hours": "Mo-Th 12:00-24:00; Fr,Sa 12:00-02:00; Su 12:00-24:00",
+    "payment:coins": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3157910567,
+  "lat": 56.8023162,
+  "lon": 60.6128981,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "name": "СТОЛОВАЯ НА ЮЖНОЙ",
+    "opening_hours": "Mo-Fr 10:00-18:00",
+    "phone": "+79001991189;+79002028388;83432101291",
+    "website": "https://www.na-yujnoy.ru/",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3168543758,
+  "lat": 56.8479164,
+  "lon": 60.6670757,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 3208663174,
+  "lat": 56.8414273,
+  "lon": 60.5829663,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7-343-3110525",
+    "contact:website": "http://www.dacafe.ru/",
+    "name": "DolceAmaro"
+  }
+},
+{
+  "type": "node",
+  "id": 3240885267,
+  "lat": 56.9014729,
+  "lon": 60.6209893,
+  "tags": {
+    "amenity": "cafe",
+    "name": "TAT GOLD",
+    "opening_hours": "Mo-Su 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3289279668,
+  "lat": 56.8327629,
+  "lon": 60.5527638,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Япона-мама",
+    "opening_hours": "Su-Th 11:00-24:00, Fr,Sa 11:00-02:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3289300962,
+  "lat": 56.8329336,
+  "lon": 60.5520513,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пекарня №1",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3311665631,
+  "lat": 56.8580062,
+  "lon": 60.6072728,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Индира"
+  }
+},
+{
+  "type": "node",
+  "id": 3331499024,
+  "lat": 56.8415621,
+  "lon": 60.6463794,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "cafe",
+    "cuisine": "vietnamese",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "VietMon",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3343338832,
+  "lat": 56.8432893,
+  "lon": 60.6447699,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-22:00; Su 10:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3343338846,
+  "lat": 56.8423782,
+  "lon": 60.6451986,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3345184001,
+  "lat": 56.8418120,
+  "lon": 60.6314835,
+  "tags": {
+    "amenity": "cafe",
+    "name": "GhettoCoffee"
+  }
+},
+{
+  "type": "node",
+  "id": 3353435097,
+  "lat": 56.8067907,
+  "lon": 60.6124582,
+  "tags": {
+    "amenity": "cafe",
+    "name": "PingPong"
+  }
+},
+{
+  "type": "node",
+  "id": 3364736570,
+  "lat": 56.8240575,
+  "lon": 60.6161240,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чарли"
+  }
+},
+{
+  "type": "node",
+  "id": 3371877928,
+  "lat": 56.8242596,
+  "lon": 60.6038370,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "64",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "check_date": "2024-10-25",
+    "contact:email": "up-vl-8mar64@yandex.ru",
+    "contact:phone": "+7 343 3856757",
+    "contact:website": "https://vilka-lozhka.com",
+    "level": "0",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 3371877930,
+  "lat": 56.8291431,
+  "lon": 60.6170601,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "contact:email": "up-vl-bel71@yandex.ru",
+    "contact:phone": "+7 343 3859395",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 3406570189,
+  "lat": 56.8259259,
+  "lon": 60.5562708,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Малиновка"
+  }
+},
+{
+  "type": "node",
+  "id": 3413887362,
+  "lat": 56.8481096,
+  "lon": 60.6169713,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Суши-шоп",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3438014493,
+  "lat": 56.7400390,
+  "lon": 60.6069919,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Быстрое питание"
+  }
+},
+{
+  "type": "node",
+  "id": 3450199524,
+  "lat": 56.7902177,
+  "lon": 60.5174268,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чайная на Де Геннина",
+    "opening_hours": "Mo-Fr 13:00-24:00; Sa,Su 00:00-02:00,13:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3460986276,
+  "lat": 56.8413931,
+  "lon": 60.6202900,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Жан Поль"
+  }
+},
+{
+  "type": "node",
+  "id": 3460988126,
+  "lat": 56.8418931,
+  "lon": 60.6201369,
+  "tags": {
+    "name": "Булочная",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 10:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3501240044,
+  "lat": 56.8335154,
+  "lon": 60.5932357,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "yes",
+    "name": "Рататуй",
+    "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-02:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3548986743,
+  "lat": 56.8363305,
+  "lon": 60.5609703,
+  "tags": {
+    "alt_name": "Лаунж-кафе Хигги",
+    "amenity": "cafe",
+    "fixme": "Закрылись",
+    "name": "Hygge"
+  }
+},
+{
+  "type": "node",
+  "id": 3566630379,
+  "lat": 56.8584061,
+  "lon": 60.6065973,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-gd@yandex.ru",
+    "contact:phone": "+7 343 2394670",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "24/7",
+    "operator": "Фудмастер"
+  }
+},
+{
+  "type": "node",
+  "id": 3567638940,
+  "lat": 56.8089791,
+  "lon": 60.6164672,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3573942998,
+  "lat": 56.8317198,
+  "lon": 60.5671952,
+  "tags": {
+    "amenity": "cafe",
+    "name": "ПерекусCity"
+  }
+},
+{
+  "type": "node",
+  "id": 3573943000,
+  "lat": 56.8317791,
+  "lon": 60.5672041,
+  "tags": {
+    "name": "Lucky Хлеб пекарня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3573956993,
+  "lat": 56.8263064,
+  "lon": 60.5580964,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Богема"
+  }
+},
+{
+  "type": "node",
+  "id": 3573956994,
+  "lat": 56.8266573,
+  "lon": 60.5587556,
+  "tags": {
+    "alt_name": "Арома-Люкс",
+    "name": "Все для пекаря и кондитера",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3574486893,
+  "lat": 56.8499440,
+  "lon": 60.5549904,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Какаду"
+  }
+},
+{
+  "type": "node",
+  "id": 3585765793,
+  "lat": 56.9005654,
+  "lon": 60.6162516,
+  "tags": {
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 3605852305,
+  "lat": 56.7955446,
+  "lon": 60.6156426,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Грильяж"
+  }
+},
+{
+  "type": "node",
+  "id": 3628495132,
+  "lat": 56.8433431,
+  "lon": 60.6221496,
+  "tags": {
+    "name": "Ля Риш",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3632328374,
+  "lat": 56.8310584,
+  "lon": 60.5498648,
+  "tags": {
+    "amenity": "cafe",
+    "name": "SmilePizza"
+  }
+},
+{
+  "type": "node",
+  "id": 3636122650,
+  "lat": 56.8104797,
+  "lon": 60.5923200,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Московское"
+  }
+},
+{
+  "type": "node",
+  "id": 3655147807,
+  "lat": 56.8419882,
+  "lon": 60.6257049,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Мон Плезир"
+  }
+},
+{
+  "type": "node",
+  "id": 3655147810,
+  "lat": 56.8429831,
+  "lon": 60.6253119,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Самовар",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 10:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3662971185,
+  "lat": 56.8298401,
+  "lon": 60.5568697,
+  "tags": {
+    "amenity": "cafe",
+    "karaoke": "yes",
+    "name": "Охота по-русски",
+    "phone": "+7 343 2144222"
+  }
+},
+{
+  "type": "node",
+  "id": 3664296310,
+  "lat": 56.8397321,
+  "lon": 60.5547123,
+  "tags": {
+    "name": "Пекарня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3691078338,
+  "lat": 56.8365692,
+  "lon": 60.5821967,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Вкусняшка №1",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 3691078342,
+  "lat": 56.8363384,
+  "lon": 60.5877009,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шашлычный центр"
+  }
+},
+{
+  "type": "node",
+  "id": 3693074856,
+  "lat": 56.8310064,
+  "lon": 60.5506298,
+  "tags": {
+    "name": "Хлебная лавка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3693423000,
+  "lat": 56.7955649,
+  "lon": 60.5095045,
+  "tags": {
+    "name": "Сладкий рай",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 3695567485,
+  "lat": 56.7897371,
+  "lon": 60.5164192,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Pash*a"
+  }
+},
+{
+  "type": "node",
+  "id": 3709581624,
+  "lat": 56.7860369,
+  "lon": 60.6753083,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "national"
+  }
+},
+{
+  "type": "node",
+  "id": 3715168447,
+  "lat": 56.8259166,
+  "lon": 60.6373253,
+  "tags": {
+    "name": "Пышка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3728824853,
+  "lat": 56.8491754,
+  "lon": 60.5653788,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шоколад"
+  }
+},
+{
+  "type": "node",
+  "id": 3732883119,
+  "lat": 56.8225555,
+  "lon": 60.5724527,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3756935110,
+  "lat": 56.7724037,
+  "lon": 60.5888413,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шашлычная"
+  }
+},
+{
+  "type": "node",
+  "id": 3866996858,
+  "lat": 56.8499199,
+  "lon": 60.6840647,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Карасики",
+    "opening_hours": "Dec-Feb: Mo-Th 10:00-21:00; Jun-Aug: Mo-Su 10:00-21:00; Dec-Feb: Fr-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3891447546,
+  "lat": 56.8875518,
+  "lon": 60.6147544,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-bm1@ya.ru",
+    "contact:phone": "+7 343 3857307",
+    "contact:vk": "https://vk.com/vilkalozhka",
+    "contact:website": "https://vilka-lozhka.com/",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00",
+    "operator": "Вилка-Ложка"
+  }
+},
+{
+  "type": "node",
+  "id": 3953149186,
+  "lat": 56.8986828,
+  "lon": 60.5926209,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Рататуй"
+  }
+},
+{
+  "type": "node",
+  "id": 3967680558,
+  "lat": 56.7895196,
+  "lon": 60.5160131,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "japanese",
+    "name": "Суширолла"
+  }
+},
+{
+  "type": "node",
+  "id": 3974176095,
+  "lat": 56.8194242,
+  "lon": 60.6503824,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "international",
+    "name": "Prime Time"
+  }
+},
+{
+  "type": "node",
+  "id": 3974176133,
+  "lat": 56.8227600,
+  "lon": 60.6518233,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "international",
+    "name": "Пятница"
+  }
+},
+{
+  "type": "node",
+  "id": 3974204281,
+  "lat": 56.8206763,
+  "lon": 60.6503110,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Солянка"
+  }
+},
+{
+  "type": "node",
+  "id": 3983705860,
+  "lat": 56.8312873,
+  "lon": 60.5460550,
+  "tags": {
+    "name": "Дом хлеба",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 3985774638,
+  "lat": 56.7961310,
+  "lon": 60.4863976,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 4032320915,
+  "lat": 56.7670465,
+  "lon": 60.7100947,
+  "tags": {
+    "addr:housenumber": "64",
+    "addr:postcode": "620010",
+    "addr:street": "Славянская улица",
+    "amenity": "cafe",
+    "name": "Бриз"
+  }
+},
+{
+  "type": "node",
+  "id": 4037629595,
+  "lat": 56.8468247,
+  "lon": 60.5590822,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Фазан"
+  }
+},
+{
+  "type": "node",
+  "id": 4101566352,
+  "lat": 56.8481553,
+  "lon": 60.6151718,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "73",
+    "addr:street": "улица Мамина-Сибиряка",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "description": "Арт-кондитерская",
+    "internet_access": "no",
+    "name": "Полиарти",
+    "opening_hours": "Mo-Fr 13:00-20:00; Sa 13:00-18:00; Su off",
+    "phone": "+79122463318",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4120483489,
+  "lat": 56.8529754,
+  "lon": 60.6452177,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "18",
+    "addr:street": "улица Блюхера",
+    "amenity": "cafe",
+    "check_date": "2022-08-21",
+    "name": "СушиВок",
+    "opening_hours": "10:00-23:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 343 224-11-11",
+    "website": "https://sushiwok.ru/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4122406990,
+  "lat": 56.8335647,
+  "lon": 60.5919491,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "21/4",
+    "addr:postcode": "620014",
+    "addr:street": "улица Малышева",
+    "amenity": "cafe",
+    "contact:email": "engels@engelscoffee.ru",
+    "contact:phone": "+7 953 6062862",
+    "contact:website": "https://engelscoffee.ru/",
+    "cuisine": "coffee_shop",
+    "name": "Engels",
+    "opening_hours": "Mo-Su 08:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4123731959,
+  "lat": 56.7933597,
+  "lon": 60.5203579,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4123744589,
+  "lat": 56.7931023,
+  "lon": 60.5197586,
+  "tags": {
+    "name": "Дом татарской кулинарии",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4132639489,
+  "lat": 56.8396161,
+  "lon": 60.6108475,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Panda Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 4166743603,
+  "lat": 56.8371173,
+  "lon": 60.5820452,
+  "tags": {
+    "name": "100 хлебов",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4167424589,
+  "lat": 56.8442837,
+  "lon": 60.6170445,
+  "tags": {
+    "addr:housenumber": "101",
+    "addr:street": "улица Мамина-Сибиряка",
+    "amenity": "cafe",
+    "cuisine": "russian",
+    "name": "Счастье есть",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4206399452,
+  "lat": 56.8340687,
+  "lon": 60.5845689,
+  "tags": {
+    "name": "BoomDonuts",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4206407488,
+  "lat": 56.8331565,
+  "lon": 60.5679578,
+  "tags": {
+    "name": "Кондитерская",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4206923396,
+  "lat": 56.8333763,
+  "lon": 60.5868898,
+  "tags": {
+    "amenity": "cafe",
+    "name": "ChocolaVie"
+  }
+},
+{
+  "type": "node",
+  "id": 4217157731,
+  "lat": 56.8516880,
+  "lon": 60.5570445,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Shашлык"
+  }
+},
+{
+  "type": "node",
+  "id": 4217162689,
+  "lat": 56.8545305,
+  "lon": 60.5568729,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Штолле",
+    "brand:en": "Stolle",
+    "brand:wikidata": "Q62502236",
+    "cuisine": "coffee_shop",
+    "name": "Штолле",
+    "name:en": "Stolle",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4219067873,
+  "lat": 56.8463859,
+  "lon": 60.5572333,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Белая ворона"
+  }
+},
+{
+  "type": "node",
+  "id": 4219797192,
+  "lat": 56.8635659,
+  "lon": 60.5766434,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "12",
+    "addr:street": "Армавирская улица",
+    "name": "Кулинария",
+    "name:en": "Kulinariya",
+    "opening_hours": "08:00-22:00",
+    "operator": "ООО Мулдагулов",
+    "shop": "bakery",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 4243991593,
+  "lat": 56.8458050,
+  "lon": 60.6448763,
+  "tags": {
+    "amenity": "cafe",
+    "indoor_seating": "yes",
+    "name": "Скороед",
+    "opening_hours": "\"предзаказ и выдача навынос по телефону\"",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4271009895,
+  "lat": 56.8843021,
+  "lon": 60.5691021,
+  "tags": {
+    "name": "Дом пекаря",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4271016140,
+  "lat": 56.8983771,
+  "lon": 60.6085939,
+  "tags": {
+    "name": "Даришка",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4271643085,
+  "lat": 56.8113369,
+  "lon": 60.7280831,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Паровоз"
+  }
+},
+{
+  "type": "node",
+  "id": 4297671889,
+  "lat": 56.8363646,
+  "lon": 60.6246971,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чилим"
+  }
+},
+{
+  "type": "node",
+  "id": 4301729092,
+  "lat": 56.8397061,
+  "lon": 60.6371157,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Арт-клуб Green Time"
+  }
+},
+{
+  "type": "node",
+  "id": 4310376203,
+  "lat": 56.8956788,
+  "lon": 60.6050928,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Япона мама"
+  }
+},
+{
+  "type": "node",
+  "id": 4312087392,
+  "lat": 56.8423468,
+  "lon": 60.6378702,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "shawarma"
+  }
+},
+{
+  "type": "node",
+  "id": 4348697889,
+  "lat": 56.7565600,
+  "lon": 60.7568389,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Вкусняшки"
+  }
+},
+{
+  "type": "node",
+  "id": 4362658300,
+  "lat": 56.8368958,
+  "lon": 60.5944077,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "8",
+    "addr:street": "улица Вайнера",
+    "amenity": "cafe",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Рада",
+    "name:en": "Rada",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+7 (343) 288-28-34",
+    "website": "libcafe.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 4370094890,
+  "lat": 56.8445656,
+  "lon": 60.5921397,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Детское кафе"
+  }
+},
+{
+  "type": "node",
+  "id": 4393258922,
+  "lat": 56.8981866,
+  "lon": 60.6288886,
+  "tags": {
+    "amenity": "cafe",
+    "name": "кафе НЭП",
+    "opening_hours": "Mo-Fr 12:00-24:00; Sa-Su 12:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4396225597,
+  "lat": 56.8393011,
+  "lon": 60.6182921,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop;russian",
+    "name": "лакмусс",
+    "name:en": "Luckmousse",
+    "name:ru": "лакмусс",
+    "website": "http://www.luckmousse.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 4396225598,
+  "lat": 56.8281462,
+  "lon": 60.5979676,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "american;mexican;russian",
+    "name:en": "Friends - Modern Diner"
+  }
+},
+{
+  "type": "node",
+  "id": 4424584793,
+  "lat": 56.8277065,
+  "lon": 60.6241333,
+  "tags": {
+    "amenity": "cafe",
+    "email": "vkus96@mail.ru",
+    "name": "Столовая Палитра Вкуса",
+    "name:en": "Dining room Palitra Vkusa",
+    "name:ru": "Столовая Палитра Вкуса",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "phone": "+73433719735"
+  }
+},
+{
+  "type": "node",
+  "id": 4429089715,
+  "lat": 56.9060067,
+  "lon": 60.6130992,
+  "tags": {
+    "name": "Хлебница",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4434086401,
+  "lat": 56.8300233,
+  "lon": 60.5652340,
+  "tags": {
+    "name": "Кулинария",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4445115989,
+  "lat": 56.8385914,
+  "lon": 60.5948701,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Буфет и Пекарня",
+    "name:ru": "Буфет и Пекарня",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "phone": "+73432537222",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4446266390,
+  "lat": 56.7935160,
+  "lon": 60.5212842,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Gudmen coffee",
+    "outdoor_seating": "no",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4448934895,
+  "lat": 56.8392543,
+  "lon": 60.6149095,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Simple Coffee",
+    "opening_hours": "Mo-Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4452758724,
+  "lat": 56.8319732,
+  "lon": 60.5455969,
+  "tags": {
+    "name": "Лакомка",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4454803691,
+  "lat": 56.8432305,
+  "lon": 60.6438255,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Штолле",
+    "brand:en": "Stolle",
+    "brand:ru": "Штолле",
+    "brand:wikidata": "Q62502236",
+    "cuisine": "pie",
+    "name": "Штолле",
+    "name:en": "Stolle",
+    "name:ru": "Штолле",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4454803692,
+  "lat": 56.8429867,
+  "lon": 60.6417451,
+  "tags": {
+    "name": "Рахат",
+    "name:ru": "Рахат",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4457425496,
+  "lat": 56.8319821,
+  "lon": 60.5672339,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Папа Джонс",
+    "contact:facebook": "https://www.facebook.com/papajohnsru",
+    "contact:instagram": "https://www.instagram.com/papajohnsru",
+    "contact:vk": "https://vk.com/papajohnsru",
+    "contact:website": "https://www.papajohns.ru",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "diet:vegetarian": "no",
+    "name": "Папа Джонс",
+    "name:en": "Papa John's",
+    "name:ru": "Папа Джонс",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4470162594,
+  "lat": 56.8336772,
+  "lon": 60.5944205,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Подсолнухи"
+  }
+},
+{
+  "type": "node",
+  "id": 4472132330,
+  "lat": 56.8262494,
+  "lon": 60.6231949,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Всё пучком"
+  }
+},
+{
+  "type": "node",
+  "id": 4488418117,
+  "lat": 56.8288730,
+  "lon": 60.5451725,
+  "tags": {
+    "name": "К чаю",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4488418123,
+  "lat": 56.8297307,
+  "lon": 60.5451618,
+  "tags": {
+    "addr:postcode": "620131",
+    "email": "packen1175@gmail.com",
+    "internet_access": "wlan",
+    "name": "Рахат",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "phone": "+7(922)206-20-04",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4491636601,
+  "lat": 56.8873393,
+  "lon": 60.6155245,
+  "tags": {
+    "name": "Кондитерская",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4501820722,
+  "lat": 56.7891744,
+  "lon": 60.5182827,
+  "tags": {
+    "name": "Добрый хлеб",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4525523090,
+  "lat": 56.8394515,
+  "lon": 60.6104999,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чебуречная mr.CHE",
+    "name:ru": "Чебуречная mr.CHE"
+  }
+},
+{
+  "type": "node",
+  "id": 4525797589,
+  "lat": 56.8752400,
+  "lon": 60.5167354,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4529325108,
+  "lat": 56.8375131,
+  "lon": 60.6090418,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Works",
+    "name:ru": "Works"
+  }
+},
+{
+  "type": "node",
+  "id": 4535395297,
+  "lat": 56.7899061,
+  "lon": 60.5170310,
+  "tags": {
+    "name": "Пан Гурман",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4539818293,
+  "lat": 56.8501779,
+  "lon": 60.5931033,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Admiral",
+    "name:ru": "Admiral",
+    "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4544464691,
+  "lat": 56.8347877,
+  "lon": 60.6096334,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "улица Гоголя",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name:en": "Coffee box"
+  }
+},
+{
+  "type": "node",
+  "id": 4545732494,
+  "lat": 56.8424967,
+  "lon": 60.6435077,
+  "tags": {
+    "name": "Алёнка",
+    "name:ru": "Алёнка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4550104491,
+  "lat": 56.8386301,
+  "lon": 60.6093279,
+  "tags": {
+    "name": "Алёнка",
+    "name:ru": "Алёнка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 4566479489,
+  "lat": 56.8276957,
+  "lon": 60.6016392,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Melange",
+    "name:ru": "Melange"
+  }
+},
+{
+  "type": "node",
+  "id": 4573230379,
+  "lat": 56.7933222,
+  "lon": 60.5204283,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Make love"
+  }
+},
+{
+  "type": "node",
+  "id": 4583505390,
+  "lat": 56.8417280,
+  "lon": 60.6368783,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "internet_access": "wlan",
+    "name": "Ароматная чашка",
+    "name:ru": "Ароматная чашка",
+    "opening_hours": "10:00-22:30",
+    "operator": "ИП Садчиков. Б. В."
+  }
+},
+{
+  "type": "node",
+  "id": 4588823151,
+  "lat": 56.8260132,
+  "lon": 60.6121740,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ben Hall Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 4601606321,
+  "lat": 56.8227562,
+  "lon": 60.6292963,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4605438893,
+  "lat": 56.8569117,
+  "lon": 60.6034839,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пекарня Хлебница",
+    "name:ru": "Пекарня Хлебница"
+  }
+},
+{
+  "type": "node",
+  "id": 4665329165,
+  "lat": 56.7861112,
+  "lon": 60.5249460,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Мякушка"
+  }
+},
+{
+  "type": "node",
+  "id": 4670480652,
+  "lat": 56.8880605,
+  "lon": 60.6103827,
+  "tags": {
+    "name": "Хлебница",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4670480656,
+  "lat": 56.8879733,
+  "lon": 60.6103157,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4674764719,
+  "lat": 56.8372700,
+  "lon": 60.6081917,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Китайская лиса"
+  }
+},
+{
+  "type": "node",
+  "id": 4681531513,
+  "lat": 56.8010485,
+  "lon": 60.6290023,
+  "tags": {
+    "name": "Пекарня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4682798567,
+  "lat": 56.8225335,
+  "lon": 60.6055655,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Очаг",
+    "opening_hours": "Mo-Su 10:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4684597053,
+  "lat": 56.8843827,
+  "lon": 60.5699131,
+  "tags": {
+    "name": "Хлебница",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4712801689,
+  "lat": 56.8065442,
+  "lon": 60.6061104,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "oriental;regional;russian;international;local",
+    "name": "Соседи",
+    "name:ru": "Соседи",
+    "opening_hours": "Mo-Su 12:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4750278123,
+  "lat": 56.8323230,
+  "lon": 60.5840282,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кофе FM"
+  }
+},
+{
+  "type": "node",
+  "id": 4761154540,
+  "lat": 56.8323500,
+  "lon": 60.5842922,
+  "tags": {
+    "amenity": "cafe",
+    "contact:instagram": "https://www.instagram.com/holy_maid_cafe/",
+    "contact:phone": "+7 950 6594049",
+    "contact:vk": "https://vk.com/holy_maid_cafe",
+    "cuisine": "japanese",
+    "name": "мейд-кафе \"Holy\"",
+    "opening_hours": "Mo-Su 11:00-22:00; Fr,Sa 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4766071141,
+  "lat": 56.8415331,
+  "lon": 60.5708582,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 4766073665,
+  "lat": 56.8986028,
+  "lon": 60.5924589,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чайхана Кучамала"
+  }
+},
+{
+  "type": "node",
+  "id": 4784898044,
+  "lat": 56.9253359,
+  "lon": 60.6138472,
+  "tags": {
+    "name": "Лаваш",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4788095990,
+  "lat": 56.8329168,
+  "lon": 60.5889799,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00;Sa 08:00-22:00;Su 08:00-21:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 4794652624,
+  "lat": 56.8099222,
+  "lon": 60.6262781,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Lori"
+  }
+},
+{
+  "type": "node",
+  "id": 4794788474,
+  "lat": 56.8703449,
+  "lon": 60.6518250,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Авангард",
+    "opening_hours": "Mo-Fr 10:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4794810793,
+  "lat": 56.8669964,
+  "lon": 60.6486493,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Шато Леон"
+  }
+},
+{
+  "type": "node",
+  "id": 4813298300,
+  "lat": 56.8326769,
+  "lon": 60.5901234,
+  "tags": {
+    "name": "Хлебное место",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4904995025,
+  "lat": 56.8818444,
+  "lon": 60.5072968,
+  "tags": {
+    "name": "Хлеб",
+    "name:en": "Хлеб",
+    "name:ru": "Хлеб",
+    "opening_hours": "PH,Mo-Su 08:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 4940432495,
+  "lat": 56.8223424,
+  "lon": 60.6296682,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "sushi",
+    "name": "Суши Wok"
+  }
+},
+{
+  "type": "node",
+  "id": 4945658474,
+  "lat": 56.7954281,
+  "lon": 60.5159182,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Coffee street"
+  }
+},
+{
+  "type": "node",
+  "id": 4971968023,
+  "lat": 56.8579448,
+  "lon": 60.6015183,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "operator": "ИП Соломин А.Н."
+  }
+},
+{
+  "type": "node",
+  "id": 4973314122,
+  "lat": 56.8184243,
+  "lon": 60.6156241,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Сказы Бажова",
+    "name:ru": "Сказы Бажова",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "phone": "+7 912 28 68 111"
+  }
+},
+{
+  "type": "node",
+  "id": 4978701929,
+  "lat": 56.7971342,
+  "lon": 60.5300532,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Едатут"
+  }
+},
+{
+  "type": "node",
+  "id": 5021908974,
+  "lat": 56.8151366,
+  "lon": 60.5870492,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Цезарь",
+    "opening_hours": "Mo-Sa 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5021917233,
+  "lat": 56.8153497,
+  "lon": 60.5856597,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая Цибус Арт",
+    "opening_hours": "Mo-Fr 08:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5024885844,
+  "lat": 56.8050321,
+  "lon": 60.6306755,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-07",
+    "name": "Олива",
+    "name:ru": "Олива",
+    "opening_hours": "Mo-Fr 08:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5033803356,
+  "lat": 56.8303856,
+  "lon": 60.5603515,
+  "tags": {
+    "name": "Хлебничная",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5038352373,
+  "lat": 56.7976686,
+  "lon": 60.6359944,
+  "tags": {
+    "name": "Бисквитный Двор",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 5063572759,
+  "lat": 56.8298462,
+  "lon": 60.5688326,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5103315121,
+  "lat": 56.8306877,
+  "lon": 60.6087935,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "63",
+    "addr:street": "улица Горького",
+    "amenity": "cafe",
+    "check_date": "2022-08-10",
+    "contact:email": "patriot.ekb.2017@mail.ru",
+    "contact:phone": "+7 900 0379808",
+    "name": "Патриот",
+    "opening_hours": "Mo-Fr 08:30-19:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5184288182,
+  "lat": 56.9413077,
+  "lon": 60.6679094,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Журавли"
+  }
+},
+{
+  "type": "node",
+  "id": 5209669222,
+  "lat": 56.8978713,
+  "lon": 60.6029928,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "pizza",
+    "diet:kosher": "no",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Пан пицца",
+    "opening_hours": "PH,Mo-Su 10:00-23:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5275000166,
+  "lat": 56.8300497,
+  "lon": 60.4376806,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Привал",
+    "name:ru": "Привал"
+  }
+},
+{
+  "type": "node",
+  "id": 5303159682,
+  "lat": 56.8128081,
+  "lon": 60.6081336,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:floor": "1",
+    "addr:housenumber": "118",
+    "addr:street": "улица 8 Марта",
+    "check_date": "2022-08-05",
+    "level": "0",
+    "name": "Хлебничная",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5341057621,
+  "lat": 56.8448931,
+  "lon": 60.6190521,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "chernyh@ekb.food-master.ru",
+    "contact:phone": "+7 343 3016441;+7 343 3790447;+7 902 2610301",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "name:en": "Vilka-lozhka",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 10:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5370820425,
+  "lat": 56.8510721,
+  "lon": 60.6315538,
+  "tags": {
+    "name": "\"Хлебничная\" пекарня",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 5382941365,
+  "lat": 56.8706840,
+  "lon": 60.6121060,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Лакомка"
+  }
+},
+{
+  "type": "node",
+  "id": 5396255253,
+  "lat": 56.8345649,
+  "lon": 60.6062762,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Трактиръ",
+    "website": "https://www.traktirekb.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5396299113,
+  "lat": 56.8349809,
+  "lon": 60.6099938,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5400335915,
+  "lat": 56.7968614,
+  "lon": 60.6447592,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Эйр-пай"
+  }
+},
+{
+  "type": "node",
+  "id": 5401031128,
+  "lat": 56.8429214,
+  "lon": 60.6399014,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 5402950547,
+  "lat": 56.8365560,
+  "lon": 60.6223749,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-05",
+    "name": "Simple Coffee",
+    "website": "https://simplecoffee.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5453639730,
+  "lat": 56.8538281,
+  "lon": 60.6157243,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "улица Луначарского",
+    "name": "Смак",
+    "opening_hours": "Mo-Su 08:00-12:00,13:00-20:00",
+    "payment:coins": "yes",
+    "payment:notes": "yes",
+    "phone": "+7 (343) 370-55-29",
+    "shop": "bakery",
+    "website": "https://www.smakhleb.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5586897602,
+  "lat": 56.8292414,
+  "lon": 60.6117661,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "ipolivceva@mail.ru",
+    "contact:phone": "+7 982 6566884;+7 992 3425991",
+    "name": "Большая Медведица",
+    "opening_hours": "Mo-Fr 07:30-21:00;Sa-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5590614000,
+  "lat": 56.8946762,
+  "lon": 60.5875477,
+  "tags": {
+    "name": "Сдобная Сказка",
+    "shop": "bakery",
+    "website": "https://sdoba66.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5602750021,
+  "lat": 56.9061400,
+  "lon": 60.6105118,
+  "tags": {
+    "name": "Сдобная сказка",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+7 343 3001003",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5623693191,
+  "lat": 56.7926155,
+  "lon": 60.5216190,
+  "tags": {
+    "name": "Хлебница",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5662374640,
+  "lat": 56.8118192,
+  "lon": 60.5130676,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "regional;armenian",
+    "indoor_seating": "yes",
+    "name": "Шампурико",
+    "opening_hours": "Mo-Sa 10:00-00:00",
+    "outdoor_seating": "no",
+    "phone": "+73433011230",
+    "website": "https://shampuriko.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 5673262321,
+  "lat": 56.8305086,
+  "lon": 60.6358248,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5704054721,
+  "lat": 56.8529669,
+  "lon": 60.5977621,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Палитра вкуса",
+    "opening_hours": "Mo-Th 10:00-17:00; Fr 10:00-16:00",
+    "phone": "+79220138844"
+  }
+},
+{
+  "type": "node",
+  "id": 5720245330,
+  "lat": 56.7501670,
+  "lon": 60.8007810,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-07",
+    "contact:phone": "+7 905 8089329",
+    "contact:website": "https://regions.shoko.ru",
+    "cuisine": "coffee_shop",
+    "name": "Шоколадница",
+    "name:en": "Shokoladnitsa",
+    "name:ru": "Шоколадница",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 5720245331,
+  "lat": 56.7502683,
+  "lon": 60.8037977,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 905 8089517",
+    "contact:website": "https://regions.shoko.ru",
+    "cuisine": "coffee_shop",
+    "name": "Шоколадница",
+    "name:en": "Shokoladnitsa",
+    "name:ru": "Шоколадница",
+    "opening_hours": "Mo-Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5723892222,
+  "lat": 56.8307526,
+  "lon": 60.6242819,
+  "tags": {
+    "name": "Дом Выпечки",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5754325923,
+  "lat": 56.7844265,
+  "lon": 60.5165312,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Вау! Десерт"
+  }
+},
+{
+  "type": "node",
+  "id": 5754326024,
+  "lat": 56.7847154,
+  "lon": 60.5159596,
+  "tags": {
+    "name": "Антоновка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5764372288,
+  "lat": 56.8309866,
+  "lon": 60.6177226,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чаща"
+  }
+},
+{
+  "type": "node",
+  "id": 5773260056,
+  "lat": 56.8358208,
+  "lon": 60.5826337,
+  "tags": {
+    "name": "Настоящая пекарня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5796454653,
+  "lat": 56.7889262,
+  "lon": 60.5149020,
+  "tags": {
+    "name": "Булочная",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5803638954,
+  "lat": 56.7903669,
+  "lon": 60.5140200,
+  "tags": {
+    "name": "Деревня «Каравай»",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5804733025,
+  "lat": 56.8399833,
+  "lon": 60.5846584,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Lamp House"
+  }
+},
+{
+  "type": "node",
+  "id": 5876670535,
+  "lat": 56.7096101,
+  "lon": 60.7339185,
+  "tags": {
+    "amenity": "cafe",
+    "name": "doner kebab"
+  }
+},
+{
+  "type": "node",
+  "id": 5897034574,
+  "lat": 56.8312937,
+  "lon": 60.5882882,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Всегда Вкусно"
+  }
+},
+{
+  "type": "node",
+  "id": 5897034575,
+  "lat": 56.8313102,
+  "lon": 60.5884610,
+  "tags": {
+    "name": "Зараторт",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5897103058,
+  "lat": 56.8315725,
+  "lon": 60.6134465,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 5908119564,
+  "lat": 56.8554486,
+  "lon": 60.6399487,
+  "tags": {
+    "name": "Круассан",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5928257585,
+  "lat": 56.8284638,
+  "lon": 60.6472254,
+  "tags": {
+    "amenity": "cafe",
+    "name:en": "Pizza Burger Beer"
+  }
+},
+{
+  "type": "node",
+  "id": 5928257586,
+  "lat": 56.8280502,
+  "lon": 60.6506981,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая РЖД N 16"
+  }
+},
+{
+  "type": "node",
+  "id": 5937449501,
+  "lat": 56.8306234,
+  "lon": 60.6105329,
+  "tags": {
+    "name": "Ли-ли",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5937449502,
+  "lat": 56.8305780,
+  "lon": 60.6105490,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Coffe me"
+  }
+},
+{
+  "type": "node",
+  "id": 5939095133,
+  "lat": 56.7810877,
+  "lon": 60.6811311,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "70",
+    "addr:postcode": "620023",
+    "addr:street": "Алтайская улица",
+    "amenity": "cafe",
+    "name": "Три мушкетера"
+  }
+},
+{
+  "type": "node",
+  "id": 5997571788,
+  "lat": 56.8445038,
+  "lon": 60.6153781,
+  "tags": {
+    "amenity": "cafe",
+    "name": "GetGoodCake"
+  }
+},
+{
+  "type": "node",
+  "id": 6000335192,
+  "lat": 56.8544162,
+  "lon": 60.6350228,
+  "tags": {
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6041192885,
+  "lat": 56.8426052,
+  "lon": 60.6173896,
+  "tags": {
+    "name": "Дом хлеба",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6118078518,
+  "lat": 56.8329889,
+  "lon": 60.5927616,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2025-12-03",
+    "cuisine": "burger",
+    "name": "Бургеры и Креветки"
+  }
+},
+{
+  "type": "node",
+  "id": 6185463909,
+  "lat": 56.8294384,
+  "lon": 60.4388045,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Заимка"
+  }
+},
+{
+  "type": "node",
+  "id": 6239720387,
+  "lat": 56.8694371,
+  "lon": 60.5538221,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пышка"
+  }
+},
+{
+  "type": "node",
+  "id": 6283837188,
+  "lat": 56.8577350,
+  "lon": 60.6049510,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Пельменная",
+    "opening_hours": "Mo-Su 08:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6403862331,
+  "lat": 56.8407134,
+  "lon": 60.6343653,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "6",
+    "addr:postcode": "620062",
+    "addr:street": "улица Чебышёва",
+    "amenity": "cafe",
+    "capacity": "4",
+    "cuisine": "coffee_shop",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "Географ",
+    "opening_hours": "Mo-Fr 08:30-17:30",
+    "outdoor_seating": "no",
+    "phone": "+7 908 903 73 02",
+    "smoking": "no",
+    "source": "local knowledge",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6504547788,
+  "lat": 56.8253354,
+  "lon": 60.5749437,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Лоза"
+  }
+},
+{
+  "type": "node",
+  "id": 6511741197,
+  "lat": 56.8358156,
+  "lon": 60.6069588,
+  "tags": {
+    "amenity": "cafe",
+    "opening_hours": "Mo-Fr 12:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6511761393,
+  "lat": 56.8407854,
+  "lon": 60.6046142,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Ветерок",
+    "opening_hours": "Mo-Fr 12:00-00:00; Sa-Su 12:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6511779812,
+  "lat": 56.8335770,
+  "lon": 60.5937263,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "georgian",
+    "name": "Баши",
+    "opening_hours": "Mo-Su 12:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6511781585,
+  "lat": 56.8503157,
+  "lon": 60.5958454,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Столовая на Красном",
+    "opening_hours": "Mo-Fr 09:00-16:00; Sa 10:00-15:00",
+    "operator": "ИП Мехоношин А.Н."
+  }
+},
+{
+  "type": "node",
+  "id": 6512888986,
+  "lat": 56.8271813,
+  "lon": 60.6328726,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "georgian",
+    "name": "Ушгули",
+    "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6536736964,
+  "lat": 56.8220010,
+  "lon": 60.6042840,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "hotline@coffee-like.com",
+    "contact:phone": "+7 341 2908292;+7 800 3334130",
+    "contact:website": "https://coffee-like.com/",
+    "name": "Coffee Like",
+    "opening_hours": "Mo-Fr 08:00-22:00;Sa 09:00-22:00;Su 11:00-21:00",
+    "operator": "Попов Алексей Юрьевич"
+  }
+},
+{
+  "type": "node",
+  "id": 6536736965,
+  "lat": 56.8452340,
+  "lon": 60.6507360,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Coffee Like",
+    "brand:wikidata": "Q55662627",
+    "contact:email": "hotline@coffee-like.com",
+    "contact:phone": "+7 341 2908292;+7 800 3334130",
+    "contact:website": "https://coffee-like.com/",
+    "cuisine": "coffee_shop",
+    "name": "Coffee Like",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "operator": "Попов Алексей Юрьевич",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6566044887,
+  "lat": 56.7856246,
+  "lon": 60.5133818,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чизкейк",
+    "opening_hours": "Mo-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6606947350,
+  "lat": 56.8425538,
+  "lon": 60.6129688,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кофе Бранч"
+  }
+},
+{
+  "type": "node",
+  "id": 6621017477,
+  "lat": 56.7846733,
+  "lon": 60.5160407,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Антоновка",
+    "opening_hours": "08:00-21:30"
+  }
+},
+{
+  "type": "node",
+  "id": 6638369285,
+  "lat": 56.8341297,
+  "lon": 60.5982281,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Pankoff Bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6652484685,
+  "lat": 56.8447427,
+  "lon": 60.5906413,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2022-08-18",
+    "name": "bontempi pinzeria",
+    "name:en": "bontempi pinzeria"
+  }
+},
+{
+  "type": "node",
+  "id": 6690633232,
+  "lat": 56.8171040,
+  "lon": 60.5382350,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "horeca@33pingvina.ru",
+    "contact:phone": "+7 800 1005033",
+    "contact:website": "https://33pingvina.ru/",
+    "cuisine": "ice_cream",
+    "name": "33 пингвина",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Интеропт",
+    "shop": "ice_cream"
+  }
+},
+{
+  "type": "node",
+  "id": 6690633234,
+  "lat": 56.7915220,
+  "lon": 60.6466210,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "horeca@33pingvina.ru",
+    "contact:phone": "+7 800 1005033",
+    "contact:website": "https://33pingvina.ru/",
+    "cuisine": "ice_cream",
+    "name": "33 пингвина",
+    "opening_hours": "Mo-Fr 10:00-22:00;Sa-Su 09:00-22:00",
+    "operator": "Интеропт",
+    "shop": "ice_cream"
+  }
+},
+{
+  "type": "node",
+  "id": 6690633246,
+  "lat": 56.8172737,
+  "lon": 60.5389541,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "horeca@33pingvina.ru",
+    "contact:phone": "+7 800 1005033",
+    "contact:website": "https://33pingvina.ru/",
+    "cuisine": "ice_cream",
+    "name": "33 пингвина",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Интеропт",
+    "shop": "ice_cream"
+  }
+},
+{
+  "type": "node",
+  "id": 6690633248,
+  "lat": 56.8290642,
+  "lon": 60.5984965,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "horeca@33pingvina.ru",
+    "contact:phone": "+7 800 1005033",
+    "contact:website": "https://33pingvina.ru/",
+    "cuisine": "ice_cream",
+    "name": "33 пингвина",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Интеропт",
+    "shop": "ice_cream"
+  }
+},
+{
+  "type": "node",
+  "id": 6703444486,
+  "lat": 56.8662984,
+  "lon": 60.5979998,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кафе № 1"
+  }
+},
+{
+  "type": "node",
+  "id": 6712614147,
+  "lat": 56.8359955,
+  "lon": 60.5964889,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Sm Street Market",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 6712614149,
+  "lat": 56.8359515,
+  "lon": 60.5960342,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Surf Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 6761168469,
+  "lat": 56.8370317,
+  "lon": 60.5935091,
+  "tags": {
+    "name": "Хлебница",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6770958740,
+  "lat": 56.8381758,
+  "lon": 60.6095566,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Папа Карло"
+  }
+},
+{
+  "type": "node",
+  "id": 6787317368,
+  "lat": 56.8425604,
+  "lon": 60.6323007,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кафетерий"
+  }
+},
+{
+  "type": "node",
+  "id": 6832075031,
+  "lat": 56.8239722,
+  "lon": 60.6194271,
+  "tags": {
+    "name": "By Петровы",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "bakery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6913551676,
+  "lat": 56.8396187,
+  "lon": 60.6181531,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Para Coffe",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 6938831661,
+  "lat": 56.8247024,
+  "lon": 60.6046468,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "Waffbusters",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 10:00-22:00",
+    "website": "https://wafbusters.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6961698161,
+  "lat": 56.8410143,
+  "lon": 60.6607546,
+  "tags": {
+    "name": "Хлебница",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 6982425185,
+  "lat": 56.8166874,
+  "lon": 60.5359845,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский пекарь",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 6984299685,
+  "lat": 56.8335761,
+  "lon": 60.6018753,
+  "tags": {
+    "amenity": "cafe",
+    "email": "teslacoffee@gmail.com",
+    "name:en": "Tesla coffee",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su 10:00-22:00",
+    "phone": "+79221611411",
+    "website": "http://teslacoffee.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 7085983789,
+  "lat": 56.8349580,
+  "lon": 60.5968335,
+  "tags": {
+    "addr:postcode": "620014",
+    "amenity": "cafe",
+    "cuisine": "american;breakfast;coffee_shop;cake;savory_pancakes;sandwich",
+    "internet_access": "wlan",
+    "name": "Breakfast Unit",
+    "opening_hours": "Mo-Su 08:00-18:00",
+    "phone": "+73432073556",
+    "website": "https://www.instagram.com/breakfast_unit"
+  }
+},
+{
+  "type": "node",
+  "id": 7171933485,
+  "lat": 56.7786223,
+  "lon": 60.7006191,
+  "tags": {
+    "check_date": "2022-12-31",
+    "name": "Бисквитный двор",
+    "opening_hours": "PH,Mo-Su 09:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "shop": "bakery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217815198,
+  "lat": 56.8000353,
+  "lon": 60.4929918,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кофе у камина"
+  }
+},
+{
+  "type": "node",
+  "id": 7288773800,
+  "lat": 56.8399667,
+  "lon": 60.6088670,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "21",
+    "addr:street": "улица Толмачёва",
+    "amenity": "cafe",
+    "name": "Скворечник",
+    "opening_hours": "Mo-Sa 07:30-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7298365885,
+  "lat": 56.8330335,
+  "lon": 60.6033339,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Горожане"
+  }
+},
+{
+  "type": "node",
+  "id": 7376201583,
+  "lat": 56.7823908,
+  "lon": 60.6491314,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "1/2а",
+    "addr:postcode": "620076",
+    "addr:street": "площадь Жуковского",
+    "amenity": "cafe",
+    "cuisine": "regional",
+    "name": "Ланч-кафе"
+  }
+},
+{
+  "type": "node",
+  "id": 7454782899,
+  "lat": 56.8118468,
+  "lon": 60.6084142,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "128",
+    "addr:street": "улица 8 Марта",
+    "name": "Хлеб из тандыра",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7602401379,
+  "lat": 56.8406634,
+  "lon": 60.6297181,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "56",
+    "addr:street": "проспект Ленина",
+    "amenity": "cafe",
+    "contact:email": "rusostrov74@yandex.ru",
+    "contact:instagram": "https://instagram.com/rusostrov74",
+    "contact:phone": "+7 922 2014243;+7 922 7183313",
+    "contact:vk": "https://vk.com/rus_ostrov",
+    "contact:website": "https://www.rus-ostrov.ru/",
+    "name": "Русский Остров",
+    "office": "company",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "operator": "Русский Остров"
+  }
+},
+{
+  "type": "node",
+  "id": 7735884036,
+  "lat": 56.8643217,
+  "lon": 60.6711281,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "58",
+    "addr:postcode": "620137",
+    "addr:street": "улица Блюхера",
+    "amenity": "cafe",
+    "cuisine": "italian;regional;asian",
+    "description": "Концепция «Ресторан на прилавке». Блюда с собой. Тренд текущего времени! Компания ООО «Провизия», предлагает поставки готовых блюд, ресторанного уровня. Современное технологичное производство Мы готовим блюда традиционной русской, итальянской и азиатско",
+    "name": "Provizia, Ресторан на прилавке",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "outdoor_seating": "no",
+    "phone": "+7 982 7055088",
+    "takeaway": "only",
+    "website": "https://provizia.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 7744318844,
+  "lat": 56.7733575,
+  "lon": 60.6146514,
+  "tags": {
+    "contact:email": "best@vietkofe.ru",
+    "contact:facebook": "https://facebook.com/vietkofe",
+    "contact:instagram": "https://instagram.com/vietkofe",
+    "contact:phone": "+7 343 2883753;+7 800 1007506",
+    "contact:vk": "https://vk.com/vietkofe",
+    "contact:website": "https://vietkofe.ru/",
+    "name": "Vietkofe",
+    "opening_hours": "Fr 09:00-17:00;Mo-Th 09:00-18:00",
+    "operator": "ООО Маргус",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 7832285766,
+  "lat": 56.8344020,
+  "lon": 60.5960190,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "103656@cinnabon.me",
+    "contact:facebook": "https://www.facebook.com/cinnabon.russia",
+    "contact:instagram": "https://instagram.com/cinnabon_russia",
+    "contact:phone": "+7 343 2879745",
+    "contact:vk": "https://vk.com/cinnabon_rus",
+    "contact:website": "https://cinnabonrussia.com/",
+    "name": "Cinnabon",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "operator": "Хван Леонид Владимирович"
+  }
+},
+{
+  "type": "node",
+  "id": 7832351426,
+  "lat": 56.8354870,
+  "lon": 60.6105450,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "zolotoibamboo-ekb@mail.ru",
+    "contact:instagram": "https://instagram.com/zolotoy_bambuk",
+    "contact:phone": "+7 902 8787338;+7 908 9286868",
+    "contact:website": "https://vietnam-ekb.tilda.ws/",
+    "name": "Золотой бамбук",
+    "opening_hours": "Fr-Sa 11:00-23:00;Mo-Th,Su 11:00-22:00",
+    "operator": "ЗОЛОТОЙ БАМБУК"
+  }
+},
+{
+  "type": "node",
+  "id": 7896988685,
+  "lat": 56.8284992,
+  "lon": 60.5991015,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Старбакс",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "contact:email": "sbux_rus@alshaya.com",
+    "contact:phone": "+7 499 2704040;+7 800 2227560",
+    "contact:website": "https://www.starbucks.ru/",
+    "cuisine": "coffee_shop",
+    "name": "Старбакс",
+    "name:en": "Starbucks",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7897107685,
+  "lat": 56.8336178,
+  "lon": 60.5940518,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Безопасный кекс",
+    "opening_hours": "Mo-Su 07:55-23:05"
+  }
+},
+{
+  "type": "node",
+  "id": 7937135785,
+  "lat": 56.7799011,
+  "lon": 60.5238497,
+  "tags": {
+    "name": "Калач",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7937224485,
+  "lat": 56.7815629,
+  "lon": 60.5207725,
+  "tags": {
+    "name": "Кому торт?",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7937319187,
+  "lat": 56.7830551,
+  "lon": 60.5189718,
+  "tags": {
+    "name": "Vlorte",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7937322085,
+  "lat": 56.7831139,
+  "lon": 60.5188659,
+  "tags": {
+    "name": "Шеф Пай",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7942478156,
+  "lat": 56.8531952,
+  "lon": 60.6432464,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Жизньмарт",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "website": "https://lifemart.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 7954120025,
+  "lat": 56.8864773,
+  "lon": 60.5093430,
+  "tags": {
+    "name": "Горячий хлеб",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 7968224564,
+  "lat": 56.8377172,
+  "lon": 60.6001242,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "26",
+    "addr:street": "проспект Ленина",
+    "amenity": "cafe",
+    "name": "Есть хинкали",
+    "opening_hours": "12:00-24:00",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8064868379,
+  "lat": 56.9139838,
+  "lon": 60.6109160,
+  "tags": {
+    "name": "Пекарня",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 8065673668,
+  "lat": 56.9063750,
+  "lon": 60.6296732,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "oootrio2020@mail.ru",
+    "contact:phone": "+7 952 7434047",
+    "name": "Джем",
+    "opening_hours": "Mo-Fr 10:00-18:00",
+    "operator": "Трио"
+  }
+},
+{
+  "type": "node",
+  "id": 8065706592,
+  "lat": 56.8169536,
+  "lon": 60.5385411,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "lorenza.cafe@mail.ru",
+    "contact:instagram": "https://instagram.com/lorenza.cafe",
+    "contact:phone": "+7 912 2732349;+7 922 2072200",
+    "name": "Lorenza",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Lorenza"
+  }
+},
+{
+  "type": "node",
+  "id": 8065736387,
+  "lat": 56.8315570,
+  "lon": 60.5671970,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "21_cups@mail.ru",
+    "contact:facebook": "https://facebook.com/21cupsekb",
+    "contact:instagram": "https://instagram.com/21cups_ekb",
+    "contact:phone": "+7 901 4382615",
+    "name": "21cups",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 10:00-20:00",
+    "operator": "21cups"
+  }
+},
+{
+  "type": "node",
+  "id": 8065737303,
+  "lat": 56.8170295,
+  "lon": 60.6319303,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "entrance": "yes",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-21:00;Sa-Su 08:00-21:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 8065737304,
+  "lat": 56.8371789,
+  "lon": 60.6157216,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00;Sa 08:00-22:00;Su 08:00-21:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 8065737305,
+  "lat": 56.8423607,
+  "lon": 60.6165531,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00;Sa 08:00-22:00;Su 08:00-21:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 8084464861,
+  "lat": 56.8402302,
+  "lon": 60.6244879,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Комунна"
+  }
+},
+{
+  "type": "node",
+  "id": 8084464887,
+  "lat": 56.8361754,
+  "lon": 60.6094711,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-08-10",
+    "name": "Marlerino Lounge",
+    "opening_hours": "Mo-Su 12:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8154393599,
+  "lat": 56.8286973,
+  "lon": 60.6191146,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 8154393600,
+  "lat": 56.8354460,
+  "lon": 60.5992153,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00;Sa-Su 08:00-22:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 8154393601,
+  "lat": 56.7405980,
+  "lon": 60.5431030,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar66@gmail.com",
+    "contact:facebook": "https://facebook.com/frpekar",
+    "contact:instagram": "https://instagram.com/pekar2013",
+    "contact:phone": "+7 343 2877726",
+    "contact:vk": "https://vk.com/frpekar",
+    "contact:website": "https://frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "Французский Пекарь"
+  }
+},
+{
+  "type": "node",
+  "id": 8195783200,
+  "lat": 56.8297710,
+  "lon": 60.5879326,
+  "tags": {
+    "contact:email": "violet.ekb@mail.ru",
+    "contact:instagram": "https://instagram.com/violet.ekb",
+    "contact:phone": "+7 343 3641333",
+    "contact:website": "https://xn--b1agimo0a.xn--p1acf/",
+    "entrance": "yes",
+    "name": "Violet",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "Violet",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 8412608519,
+  "lat": 56.8050960,
+  "lon": 60.5644834,
+  "tags": {
+    "amenity": "bar",
+    "name": "Балетон",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 8521166057,
+  "lat": 56.8363851,
+  "lon": 60.6244066,
+  "tags": {
+    "contact:email": "violet.ekb@mail.ru",
+    "contact:instagram": "https://instagram.com/violet.ekb",
+    "contact:phone": "+7 343 3611033;+7 343 3641333",
+    "contact:vk": "https://vk.com/violet_sweetshop",
+    "contact:website": "https://xn--b1agimo0a.xn--p1acf/",
+    "name": "Violet",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
+    "operator": "Violet",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 8532982148,
+  "lat": 56.8412974,
+  "lon": 60.6562589,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Хачапурная №1"
+  }
+},
+{
+  "type": "node",
+  "id": 8662211617,
+  "lat": 56.7942662,
+  "lon": 60.5070674,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кофе с собой",
+    "survey:date": "2021-04-24"
+  }
+},
+{
+  "type": "node",
+  "id": 8752542304,
+  "lat": 56.8443485,
+  "lon": 60.6181866,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "sterevan@mail.ru",
+    "contact:phone": "+7 343 2902060;+7 992 3361964",
+    "contact:website": "https://sterevan96.ru/",
+    "name": "Старый Ереван",
+    "opening_hours": "Mo-Su 10:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8808006025,
+  "lat": 56.8857263,
+  "lon": 60.5934657,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Кофе с собой"
+  }
+},
+{
+  "type": "node",
+  "id": 8808006037,
+  "lat": 56.8855977,
+  "lon": 60.5934545,
+  "tags": {
+    "name": "Русский хлеб",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 8826531011,
+  "lat": 56.8298631,
+  "lon": 60.5888677,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "Simple coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 8839206136,
+  "lat": 56.8418415,
+  "lon": 60.5825024,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "fartukst@mail.ru",
+    "contact:phone": "+7 343 2138787",
+    "name": "Фартук",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8839206141,
+  "lat": 56.8238520,
+  "lon": 60.6274330,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "probrunch.ekb@yandex.ru",
+    "contact:phone": "+7 922 1422717;+7 922 6062469",
+    "contact:website": "https://www.pro-brunch.ru/",
+    "name": "Pro Brunch",
+    "opening_hours": "Mo-Su 08:00-19:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8861225317,
+  "lat": 56.7886178,
+  "lon": 60.5171347,
+  "tags": {
+    "amenity": "cafe",
+    "email": "veravcoffee@gmail.com",
+    "name": "Вера в кофе",
+    "name:en": "Vera v coffee",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8887580217,
+  "lat": 56.8400757,
+  "lon": 60.6146589,
+  "tags": {
+    "amenity": "cafe",
+    "name": "тако маго",
+    "name:en": "tako mago",
+    "website": "https://instagram.com/tacomago"
+  }
+},
+{
+  "type": "node",
+  "id": 8887589517,
+  "lat": 56.8392344,
+  "lon": 60.6143544,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "46",
+    "addr:postcode": "620075",
+    "addr:street": "проспект Ленина",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop;breakfast;waffle;coffee",
+    "name": "Engels",
+    "name:en": "Engels Opera",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+7 903 0789149",
+    "website": "https://engelscoffee.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 8887598917,
+  "lat": 56.8285957,
+  "lon": 60.6099912,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Такие истории"
+  }
+},
+{
+  "type": "node",
+  "id": 8887602518,
+  "lat": 56.8363000,
+  "lon": 60.6066856,
+  "tags": {
+    "addr:floor": "-1",
+    "addr:housenumber": "31",
+    "addr:street": "улица Горького",
+    "amenity": "cafe",
+    "check_date": "2022-08-13",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Espresso Season",
+    "opening_hours": "09:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.instagram.com/espressoseason/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8938870704,
+  "lat": 56.8364610,
+  "lon": 60.5953710,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Старбакс",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "contact:email": "sbux_rus@alshaya.com",
+    "contact:phone": "+7 499 2704040;+7 800 2227560",
+    "contact:website": "https://www.starbucks.ru/",
+    "cuisine": "coffee_shop",
+    "name": "Старбакс",
+    "name:en": "Starbucks",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8938870710,
+  "lat": 56.8233476,
+  "lon": 60.5054908,
+  "tags": {
+    "amenity": "cafe",
+    "brand": "Старбакс",
+    "brand:en": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "brand:wikipedia": "en:Starbucks",
+    "contact:email": "sbux_rus@alshaya.com",
+    "contact:phone": "+7 499 2704040;+7 800 2227560",
+    "contact:website": "https://www.starbucks.ru/",
+    "cuisine": "coffee_shop",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "name": "Старбакс",
+    "name:en": "Starbucks",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8946457117,
+  "lat": 56.8426297,
+  "lon": 60.6447350,
+  "tags": {
+    "addr:postcode": "620062",
+    "amenity": "cafe",
+    "cuisine": "breakfast;cake;coffee_shop",
+    "internet_access": "wlan",
+    "name": "Капибара",
+    "name:en": "Capybara",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "phone": "+7 922 198-71-69",
+    "website": "https://instagram.com/capybara.coffee/"
+  }
+},
+{
+  "type": "node",
+  "id": 8950861417,
+  "lat": 56.8367193,
+  "lon": 60.6278712,
+  "tags": {
+    "addr:floor": "1",
+    "addr:postcode": "620075",
+    "amenity": "cafe",
+    "check_date": "2022-08-14",
+    "cuisine": "breakfast;coffee_shop;sandwich;tea",
+    "internet_access": "wlan",
+    "name": "Coffee Flower",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 09:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 (902) 500-61-11",
+    "website": "https://facebook.com/coffeeflowerekb",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8956898993,
+  "lat": 56.7452763,
+  "lon": 60.6046380,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Наш двор"
+  }
+},
+{
+  "type": "node",
+  "id": 8979408791,
+  "lat": 56.8717179,
+  "lon": 60.5210026,
+  "tags": {
+    "name": "Пекарня \"Хлебница\"",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 9022927418,
+  "lat": 56.8389696,
+  "lon": 60.5926846,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "russian",
+    "name": "Кафе Пекарня",
+    "opening_hours": "Mo-Su 08:00-20:30"
+  }
+},
+{
+  "type": "node",
+  "id": 9063451318,
+  "lat": 56.8863502,
+  "lon": 60.6154352,
+  "tags": {
+    "name": "Настоящая Пекарня",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 10:00-21:00",
+    "phone": "+73433051055",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 9154261117,
+  "lat": 56.8043642,
+  "lon": 60.6267503,
+  "tags": {
+    "email": "lavkaomera@yandex.ru",
+    "name": "Кондитерская Омэра",
+    "name:en": "Omer's confectionery",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 9212352492,
+  "lat": 56.7894242,
+  "lon": 60.4997751,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Coffe Craft"
+  }
+},
+{
+  "type": "node",
+  "id": 9212352496,
+  "lat": 56.7889610,
+  "lon": 60.4989529,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "уйгурская_кухня",
+    "name": "Уйгурская кухня"
+  }
+},
+{
+  "type": "node",
+  "id": 9212352497,
+  "lat": 56.7888773,
+  "lon": 60.4988029,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Kat`s"
+  }
+},
+{
+  "type": "node",
+  "id": 9279414877,
+  "lat": 56.8294471,
+  "lon": 60.5660619,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 9329640617,
+  "lat": 56.8345642,
+  "lon": 60.6060944,
+  "tags": {
+    "addr:housenumber": "56А",
+    "addr:street": "улица Малышева",
+    "amenity": "cafe",
+    "cuisine": "italian_pizza",
+    "internet_access": "wlan",
+    "name": "Папа Римский",
+    "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
+    "phone": "+7 (343) 385-60-41",
+    "website": "https://ppr-ek.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 9376166418,
+  "lat": 56.7881193,
+  "lon": 60.5040469,
+  "tags": {
+    "addr:housenumber": "40/3",
+    "addr:street": "улица Академика Парина",
+    "amenity": "cafe",
+    "check_date": "2023-10-01",
+    "cuisine": "pizza",
+    "name": "Pizza Rome",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 963 052-07-98",
+    "website": "https://pizzarome66.ru",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9442194607,
+  "lat": 56.7754569,
+  "lon": 60.5997801,
+  "tags": {
+    "name": "Кондитерские изделия",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 9514483759,
+  "lat": 56.7752674,
+  "lon": 60.5999394,
+  "tags": {
+    "name": "Выпечка",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 9627970912,
+  "lat": 56.7467158,
+  "lon": 60.5626112,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Fat Cat"
+  }
+},
+{
+  "type": "node",
+  "id": 9711615710,
+  "lat": 56.8474350,
+  "lon": 60.6013489,
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "Красный переулок",
+    "name": "CoffeeUp",
+    "opening_hours": "Mo-Fr 07:10-21:00; Sa,Su 09:00-21:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+79920204420",
+    "shop": "coffee",
+    "website": "https://coffee-up.vsite.biz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9722382146,
+  "lat": 56.8040132,
+  "lon": 60.6121339,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "169",
+    "addr:postcode": "620130",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "contact:phone": "+7 963 4475293",
+    "contact:website": "https://engelscoffee.ru/",
+    "cuisine": "coffee_shop",
+    "name": "Engels",
+    "opening_hours": "Mo-Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9772748517,
+  "lat": 56.7980914,
+  "lon": 60.6334668,
+  "tags": {
+    "addr:housenumber": "173/1",
+    "addr:street": "улица Белинского",
+    "name": "Wolf Coffee",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:00-20:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 9790646267,
+  "lat": 56.9088211,
+  "lon": 60.6003380,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "улица Новаторов",
+    "amenity": "cafe",
+    "name": "Coffee Butterfly"
+  }
+},
+{
+  "type": "node",
+  "id": 9812806020,
+  "lat": 56.8552786,
+  "lon": 60.6015413,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Сибирский путь",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+7 (343) 310-53-31",
+    "website": "http://sibput.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 9812848417,
+  "lat": 56.9043976,
+  "lon": 60.5608414,
+  "tags": {
+    "addr:housenumber": "101",
+    "addr:postcode": "620088",
+    "addr:street": "Кировградская улица",
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Лесная сказка",
+    "opening_hours": "Mo-Su 11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9812848517,
+  "lat": 56.9158449,
+  "lon": 60.6138635,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "TomYumBar",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "phone": "+7 (343) 247-26-53",
+    "website": "https://ekb.tomyumbar.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 9812848717,
+  "lat": 56.8719187,
+  "lon": 60.5133845,
+  "tags": {
+    "addr:housenumber": "2А",
+    "addr:postcode": "620050",
+    "addr:street": "улица Паровозников",
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Вечер",
+    "opening_hours": "Mo-Su 11:00-03:00",
+    "phone": "+7 912 2340818"
+  }
+},
+{
+  "type": "node",
+  "id": 9812848718,
+  "lat": 56.7539285,
+  "lon": 60.6942509,
+  "tags": {
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Жалкин",
+    "opening_hours": "Mo-Su 12:00-00:00",
+    "phone": "+7 343 2586320"
+  }
+},
+{
+  "type": "node",
+  "id": 9824673218,
+  "lat": 56.8980540,
+  "lon": 60.6103740,
+  "tags": {
+    "name": "Домовая кухня",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 9833331322,
+  "lat": 56.9201479,
+  "lon": 60.6135631,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Хлеб & Булки"
+  }
+},
+{
+  "type": "node",
+  "id": 9833331334,
+  "lat": 56.9010238,
+  "lon": 60.6134661,
+  "tags": {
+    "name": "Сладкая лавка",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 9833338222,
+  "lat": 56.9029060,
+  "lon": 60.6128579,
+  "tags": {
+    "name": "Пекарня & хлебница",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 9840119245,
+  "lat": 56.8586830,
+  "lon": 60.5989365,
+  "tags": {
+    "amenity": "cafe",
+    "description": "https://restaurantguru.ru/Kafe-Perron-Yekaterinburg",
+    "name": "PERRON"
+  }
+},
+{
+  "type": "node",
+  "id": 9843615720,
+  "lat": 56.8967510,
+  "lon": 60.6058143,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Суши маркет",
+    "opening_hours": "Mo-Th 10:00-23:00; Fr-Su 10:00-00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9849856017,
+  "lat": 56.8283517,
+  "lon": 60.5947627,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "Папа Карло",
+    "name:en": "Papa Carlo Coffee",
+    "website": "https://www.instagram.com/papacarlocoffee/"
+  }
+},
+{
+  "type": "node",
+  "id": 9849856018,
+  "lat": 56.8360765,
+  "lon": 60.6136771,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Папа Карло",
+    "name:en": "Papa Karlo Coffee",
+    "website": "https://www.instagram.com/papacarlocoffee/"
+  }
+},
+{
+  "type": "node",
+  "id": 9849856117,
+  "lat": 56.8448411,
+  "lon": 60.5905236,
+  "tags": {
+    "addr:floor": "1",
+    "amenity": "cafe",
+    "check_date": "2022-08-18",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Папа Карло",
+    "name:en": "Papa Carlo Coffee",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.instagram.com/papacarlocoffee/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9849891942,
+  "lat": 56.8458405,
+  "lon": 60.6178093,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "улица Луначарского",
+    "name": "Жаркие истории",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 10:00-20:00; Su 09:00-09:00",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 9849908817,
+  "lat": 56.8302685,
+  "lon": 60.5917031,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "breakfast",
+    "name": "Redis",
+    "name:en": "Редис",
+    "website": "https://instagram.com/redis_cafe?igshid=YmMyMTA2M2Y="
+  }
+},
+{
+  "type": "node",
+  "id": 9865938717,
+  "lat": 56.7950529,
+  "lon": 60.4936812,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "pizza",
+    "name": "Эйт"
+  }
+},
+{
+  "type": "node",
+  "id": 9880677524,
+  "lat": 56.8481598,
+  "lon": 60.6620216,
+  "tags": {
+    "addr:housenumber": "36/1",
+    "addr:street": "Студенческая улица",
+    "name": "Coffee & Chocolate",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-18:00",
+    "phone": "+79221936833",
+    "shop": "confectionery",
+    "website": "https://coffee-chocolate.ru"
+  }
+},
+{
+  "type": "node",
+  "id": 9888882564,
+  "lat": 56.8342286,
+  "lon": 60.6816324,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "description": "Кофейня расположена на первом этаже, в конце холла.",
+    "level": "0",
+    "name": "Кофе, лимонад",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9899392188,
+  "lat": 56.9170351,
+  "lon": 60.6137717,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "104512@megagroup.com.ru",
+    "contact:phone": "+7 343 2871337",
+    "contact:website": "https://cinnabonrussia.com/",
+    "cuisine": "cake",
+    "name": "Cinnabon",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9915035218,
+  "lat": 56.8336736,
+  "lon": 60.6008854,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Люблю кофе",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+7 (996) 595-43-45",
+    "website": "http://пригласинакофе.рф"
+  }
+},
+{
+  "type": "node",
+  "id": 9916526917,
+  "lat": 56.8448493,
+  "lon": 60.5920446,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "russian",
+    "internet_access": "wlan",
+    "name": "Кафе 1991",
+    "name:en": "Cafe 1991",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "phone": "+7 (343) 273-19-91",
+    "website": "https://1991.rest/"
+  }
+},
+{
+  "type": "node",
+  "id": 9916872617,
+  "lat": 56.7501642,
+  "lon": 60.8016616,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "russian",
+    "name": "Крошка Картошка",
+    "opening_hours": "24/7",
+    "phone": "+7 (912) 210-53-33",
+    "website": "https://www.kartoshka.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9944654620,
+  "lat": 56.8458207,
+  "lon": 60.6178018,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Rhino coffee",
+    "opening_hours": "Su-Th 08:30-20:00",
+    "phone": "+7 982 6056232"
+  }
+},
+{
+  "type": "node",
+  "id": 9950811226,
+  "lat": 56.8353976,
+  "lon": 60.6862648,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "25",
+    "addr:street": "улица Сыромолотова",
+    "amenity": "cafe",
+    "check_date": "2022-08-13",
+    "cuisine": "coffee_shop",
+    "internet_access": "no",
+    "name": "Cat’s Cup",
+    "opening_hours": "Mo-Fr 07:30-21:30; Sa-Su 08:30-21:30",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9952531539,
+  "lat": 56.8373625,
+  "lon": 60.6276661,
+  "tags": {
+    "addr:housenumber": "125",
+    "addr:street": "улица Бажова",
+    "amenity": "cafe",
+    "check_date": "2022-08-14",
+    "name": "А помнишь?",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9967281492,
+  "lat": 56.8572628,
+  "lon": 60.6541835,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "1",
+    "addr:street": "Комсомольская улица",
+    "check_date": "2022-08-21",
+    "internet_access": "no",
+    "name": "Семейная пекарня",
+    "opening_hours": "08:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "bakery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9967398092,
+  "lat": 56.8433925,
+  "lon": 60.6295650,
+  "tags": {
+    "addr:floor": "1",
+    "amenity": "cafe",
+    "check_date": "2022-08-21",
+    "cuisine": "crepe;pancake;russian;savory_pancakes",
+    "entrance": "yes",
+    "level": "1",
+    "name": "Скороед",
+    "name:en": "Skoroyed",
+    "opening_hours": "Mo-Th 08:00-21:00; Fr-Su 09:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9967423319,
+  "lat": 56.8433153,
+  "lon": 60.6258186,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "56",
+    "addr:street": "Первомайская улица",
+    "check_date": "2022-08-21",
+    "name": "Дом выпечки",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "bakery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10005660317,
+  "lat": 56.8369843,
+  "lon": 60.6295886,
+  "tags": {
+    "addr:housenumber": "108",
+    "amenity": "cafe",
+    "contact:instagram": "unionekb",
+    "name": "UNION",
+    "name:en": "UNION coffee",
+    "name:ru": "UNION coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 10008580317,
+  "lat": 56.8868315,
+  "lon": 60.6174091,
+  "tags": {
+    "name": "Свежий хлеб",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 10015553166,
+  "lat": 56.7868939,
+  "lon": 60.5060216,
+  "tags": {
+    "addr:housenumber": "38/6",
+    "addr:street": "улица Академика Парина",
+    "amenity": "cafe",
+    "check_date": "2023-10-01",
+    "cuisine": "coffee_shop",
+    "name": "Неспящая сова",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10083297795,
+  "lat": 56.8172989,
+  "lon": 60.6398286,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Станционный буфет"
+  }
+},
+{
+  "type": "node",
+  "id": 10125528917,
+  "lat": 56.8997490,
+  "lon": 60.6131038,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-omega@yandex.ru",
+    "contact:phone": "+7 343 3790447;+7 343 3858003;+7 900 3791517",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10125528918,
+  "lat": 56.8291435,
+  "lon": 60.5990732,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-04",
+    "contact:email": "up-vl-gr@ya.ru",
+    "contact:phone": "+7 343 3822004",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10125528919,
+  "lat": 56.7798106,
+  "lon": 60.6095713,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-t26@yandex.ru",
+    "contact:phone": "+7 343 3573389",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10125528921,
+  "lat": 56.8635473,
+  "lon": 60.6307447,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "vilkaph2019@gmail.com",
+    "contact:phone": "+7 904 9841432;+7 908 9282569",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10125528924,
+  "lat": 56.7969598,
+  "lon": 60.5789781,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-up62@ya.ru",
+    "contact:phone": "+7 343 3853339",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10125528925,
+  "lat": 56.7923181,
+  "lon": 60.6240016,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "up-vl-rod18@yandex.ru",
+    "contact:phone": "+7 343 3573301",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 10:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10175756660,
+  "lat": 56.8333836,
+  "lon": 60.5914660,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "oknanaug@gmail.com",
+    "contact:phone": "+7 982 6318172",
+    "name": "Окна на Юг",
+    "name:en": "BILBAO",
+    "name:ru": "BILBAO",
+    "opening_hours": "Mo-Fr 07:00-21:00;Sa-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10209388273,
+  "lat": 56.8357442,
+  "lon": 60.5654828,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "Хлеб и булки"
+  }
+},
+{
+  "type": "node",
+  "id": 10242076759,
+  "lat": 56.8347799,
+  "lon": 60.5686221,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Не усложняй"
+  }
+},
+{
+  "type": "node",
+  "id": 10310295512,
+  "lat": 56.8174851,
+  "lon": 60.6080169,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "Пельменная Pelmeni Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 10310431730,
+  "lat": 56.8233703,
+  "lon": 60.6039349,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "Хинкали"
+  }
+},
+{
+  "type": "node",
+  "id": 10310431731,
+  "lat": 56.8245554,
+  "lon": 60.6046952,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "Pho Ha Noi",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa,Su 11:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10310443818,
+  "lat": 56.8189833,
+  "lon": 60.6057553,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "Студенческая столовая"
+  }
+},
+{
+  "type": "node",
+  "id": 10310443820,
+  "lat": 56.8221156,
+  "lon": 60.6043882,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "70",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "check_date": "2024-10-25",
+    "level": "0",
+    "name": "Бисквитный двор",
+    "opening_hours": "08:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10310737267,
+  "lat": 56.8334783,
+  "lon": 60.5458243,
+  "tags": {
+    "check_date": "2023-01-06",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 10311381652,
+  "lat": 56.8365593,
+  "lon": 60.5822431,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "contact:email": "a.koroleva@ekb.food-master.ru",
+    "contact:phone": "+7 343 3856934",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 10:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10311381654,
+  "lat": 56.8334904,
+  "lon": 60.5961369,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "cuisine": "vietnamese",
+    "name": "VIET MON"
+  }
+},
+{
+  "type": "node",
+  "id": 10311381655,
+  "lat": 56.8336992,
+  "lon": 60.5976141,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "cuisine": "asian;japanese",
+    "name": "Maru"
+  }
+},
+{
+  "type": "node",
+  "id": 10311381659,
+  "lat": 56.8335815,
+  "lon": 60.5965864,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "gyros"
+  }
+},
+{
+  "type": "node",
+  "id": 10311392909,
+  "lat": 56.8335006,
+  "lon": 60.6003522,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-06",
+    "name": "TomYumBar"
+  }
+},
+{
+  "type": "node",
+  "id": 10311392913,
+  "lat": 56.8330184,
+  "lon": 60.6004601,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "23B",
+    "addr:postcode": "620014",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "check_date": "2024-06-30",
+    "name": "50кгкостей",
+    "website": "https://50bones.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 10311395172,
+  "lat": 56.8321108,
+  "lon": 60.6007575,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-06-30",
+    "name": "FacetoHaze"
+  }
+},
+{
+  "type": "node",
+  "id": 10312636978,
+  "lat": 56.8171569,
+  "lon": 60.6137898,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-01-07",
+    "name": "Котокафе Мяу",
+    "theme": "cat"
+  }
+},
+{
+  "type": "node",
+  "id": 10554212591,
+  "lat": 56.8317154,
+  "lon": 60.5448075,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:postcode": "620131",
+    "addr:street": "улица Викулова",
+    "name": "Хлебничная",
+    "opening_hours": "09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 10603596220,
+  "lat": 56.8333917,
+  "lon": 60.5961710,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "moscowpr@frankbybasta.com",
+    "contact:phone": "+7 343 3003696",
+    "contact:website": "https://frankmeat.ru/ekb",
+    "cuisine": "beef",
+    "name": "Frank by Баста",
+    "opening_hours": "Fr-Sa 12:00-03:00; Mo-Th,Su 12:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10603596237,
+  "lat": 56.8036951,
+  "lon": 60.6127685,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-06-26",
+    "contact:email": "zaratort@yandex.ru",
+    "contact:phone": "+7 343 3437271",
+    "contact:website": "https://cafebarzaya.com",
+    "name": "БарЗая",
+    "opening_hours": "Fr-Sa 09:00-00:00; Mo-Th,Su 09:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10603596238,
+  "lat": 56.8265737,
+  "lon": 60.5891114,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "zaratort@yandex.ru",
+    "contact:phone": "+7 343 3437271",
+    "contact:website": "https://cafebarzaya.com",
+    "name": "БарЗая",
+    "opening_hours": "Fr-Sa 09:00-00:00; Mo-Th,Su 09:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10749947705,
+  "lat": 56.8584116,
+  "lon": 60.6045926,
+  "tags": {
+    "name": "Добрый пекарь",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 10804761977,
+  "lat": 56.8365611,
+  "lon": 60.5828002,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "info@kstati-coffee.ru",
+    "contact:phone": "+7 932 1232663",
+    "contact:website": "https://кстати.рф",
+    "cuisine": "coffee_shop",
+    "name": "Кстати",
+    "opening_hours": "Mo-Su 07:30-21:30"
+  }
+},
+{
+  "type": "node",
+  "id": 10976211661,
+  "lat": 56.7758065,
+  "lon": 60.6116460,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "zamzam.ekb@gmail.com",
+    "contact:phone": "+7 953 0420044",
+    "contact:website": "https://zamzamekb.ru",
+    "name": "Zam zam",
+    "opening_hours": "Fr-Sa 10:00-24:00; Mo-Th,Su 10:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11068215456,
+  "lat": 56.8111174,
+  "lon": 60.6098937,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "123",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "cuisine": "vietnamese",
+    "name": "Золотой Бамбук",
+    "opening_hours": "11:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+7‒902‒87‒87‒338",
+    "website": "https://goldenbamboo.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 11113387430,
+  "lat": 56.7451177,
+  "lon": 60.5631706,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 08:00-21:30",
+    "outdoor_seating": "yes",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11230802248,
+  "lat": 56.7836595,
+  "lon": 60.5203144,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-10-01",
+    "cuisine": "pizza",
+    "name": "Миа"
+  }
+},
+{
+  "type": "node",
+  "id": 11279446845,
+  "lat": 56.8170956,
+  "lon": 60.6322924,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru/",
+    "entrance": "yes",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11279466670,
+  "lat": 56.8164775,
+  "lon": 60.6322584,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "Жизньмарт"
+  }
+},
+{
+  "type": "node",
+  "id": 11279467279,
+  "lat": 56.8159655,
+  "lon": 60.6327362,
+  "tags": {
+    "contact:phone": "+7 343 3442526;+7 982 7496781",
+    "contact:website": "https://zlatapechka.ru",
+    "entrance": "yes",
+    "name": "Злата печка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11294444032,
+  "lat": 56.8624802,
+  "lon": 60.6563188,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "Обжорка"
+  }
+},
+{
+  "type": "node",
+  "id": 11294444036,
+  "lat": 56.8625661,
+  "lon": 60.6550818,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11341059022,
+  "lat": 56.7561025,
+  "lon": 60.6744478,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "220",
+    "addr:street": "улица Щербакова",
+    "amenity": "cafe",
+    "check_date": "2023-11-11",
+    "name": "Гоголь Моголь",
+    "opening_hours": "Mo-Fr 10:00-19:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11342376797,
+  "lat": 56.7498912,
+  "lon": 60.8035341,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2023-11-12",
+    "name": "Жигули",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11342929169,
+  "lat": 56.7554008,
+  "lon": 60.7034514,
+  "tags": {
+    "amenity": "cafe",
+    "name:en": "Italian Pizza"
+  }
+},
+{
+  "type": "node",
+  "id": 11355300070,
+  "lat": 56.7544619,
+  "lon": 60.7033072,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "sovafriends66@yandex.ru",
+    "contact:phone": "+7 982 6364124",
+    "contact:website": "https://sovafriends.ru/",
+    "cuisine": "coffee_shop",
+    "name": "SOVAFriends",
+    "opening_hours": "Mo-Fr 07:45-21:05; Sa-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11420633268,
+  "lat": 56.8521483,
+  "lon": 60.5764983,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "Хлеб & Булки"
+  }
+},
+{
+  "type": "node",
+  "id": 11420633284,
+  "lat": 56.8515618,
+  "lon": 60.5762905,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "yes",
+    "name": "На Куски",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11433580403,
+  "lat": 56.8563830,
+  "lon": 60.6080889,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "diet:vegetarian": "yes",
+    "drink:coffee": "yes",
+    "drink:tea": "yes",
+    "drink:water": "yes",
+    "entrance": "yes",
+    "name": "Aristocrat Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 11462550324,
+  "lat": 56.8393711,
+  "lon": 60.5945015,
+  "tags": {
+    "contact:phone": "+7 343 3442526;+7 905 8018237",
+    "contact:website": "https://zlatapechka.ru",
+    "name": "Злата печка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11462568726,
+  "lat": 56.8068065,
+  "lon": 60.5970504,
+  "tags": {
+    "contact:phone": "+7 343 3442526;+7 909 0004486",
+    "contact:website": "https://zlatapechka.ru",
+    "name": "Злата печка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11462569953,
+  "lat": 56.8318636,
+  "lon": 60.5925894,
+  "tags": {
+    "contact:phone": "+7 343 3442526;+7 905 8018261",
+    "contact:website": "https://zlatapechka.ru",
+    "name": "Злата печка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11622200794,
+  "lat": 56.7980026,
+  "lon": 60.4887808,
+  "tags": {
+    "contact:phone": "+7 922 0323730",
+    "name": "Потеха",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-20:00",
+    "shop": "coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692021,
+  "lat": 56.8291625,
+  "lon": 60.5868745,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-19:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692022,
+  "lat": 56.9155681,
+  "lon": 60.6138306,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692024,
+  "lat": 56.8263360,
+  "lon": 60.5881780,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:30-20:30; Sa 09:00-20:00; Su 10:00-19:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692025,
+  "lat": 56.7967248,
+  "lon": 60.6122108,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692026,
+  "lat": 56.8285506,
+  "lon": 60.5990731,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692027,
+  "lat": 56.8530860,
+  "lon": 60.5497796,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo,We-Su 10:00-22:00; Tu 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692028,
+  "lat": 56.8522060,
+  "lon": 60.6402880,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo,We-Su 10:00-22:00; Tu 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692029,
+  "lat": 56.8283891,
+  "lon": 60.5949130,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo,We-Su 10:00-22:00; Tu 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692030,
+  "lat": 56.7891861,
+  "lon": 60.6488979,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo,We-Su 10:00-22:00; Tu 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692031,
+  "lat": 56.8160654,
+  "lon": 60.5860403,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo,We-Su 10:00-22:00; Tu 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692038,
+  "lat": 56.7405684,
+  "lon": 60.5427790,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692039,
+  "lat": 56.8127490,
+  "lon": 60.5854315,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 10:00-17:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692040,
+  "lat": 56.8219474,
+  "lon": 60.6084823,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:00-20:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692041,
+  "lat": 56.8637643,
+  "lon": 60.6312489,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692042,
+  "lat": 56.8065181,
+  "lon": 60.6125604,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692043,
+  "lat": 56.8345099,
+  "lon": 60.5959725,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692044,
+  "lat": 56.8168802,
+  "lon": 60.5397479,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692045,
+  "lat": 56.8290862,
+  "lon": 60.6724906,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692046,
+  "lat": 56.7965808,
+  "lon": 60.6273919,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11668692047,
+  "lat": 56.8637379,
+  "lon": 60.6315653,
+  "tags": {
+    "contact:phone": "+7 343 3565566;+7 343 3793355",
+    "contact:website": "https://www.paulbakery.ru",
+    "name": "Поль Бейкери",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 11708144469,
+  "lat": 56.8306612,
+  "lon": 60.5558863,
+  "tags": {
+    "addr:postcode": "620109",
+    "name": "Провинция",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+79221981104",
+    "shop": "confectionery",
+    "website": "https://prov66.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11874149284,
+  "lat": 56.7832378,
+  "lon": 60.5384137,
+  "tags": {
+    "addr:housenumber": "244/1",
+    "addr:street": "улица Чкалова",
+    "amenity": "cafe",
+    "name": "Трапеза",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+79222180989"
+  }
+},
+{
+  "type": "node",
+  "id": 11975055353,
+  "lat": 56.9168940,
+  "lon": 60.6137534,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "m_gve@mail.ru",
+    "contact:phone": "+7 952 1343504",
+    "contact:website": "https://gagawa.ru",
+    "name": "Gagawa",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11992258869,
+  "lat": 56.8363127,
+  "lon": 60.5960541,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "georgian",
+    "name": "Тбилисоба"
+  }
+},
+{
+  "type": "node",
+  "id": 11993603070,
+  "lat": 56.8749797,
+  "lon": 60.6101606,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Вкусное место",
+    "opening_hours": "Mo-Fr 11:00-15:30"
+  }
+},
+{
+  "type": "node",
+  "id": 12104043581,
+  "lat": 56.8266583,
+  "lon": 60.5969959,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-08-11",
+    "cuisine": "coffee_shop",
+    "name": "Simple coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 12104043582,
+  "lat": 56.8266626,
+  "lon": 60.5970970,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-08-11",
+    "name": "Duo"
+  }
+},
+{
+  "type": "node",
+  "id": 12119540607,
+  "lat": 56.7888950,
+  "lon": 60.4816540,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "regional;armenian",
+    "indoor_seating": "yes",
+    "name": "Шампурико",
+    "opening_hours": "Mo-Sa 10:00-00:00",
+    "outdoor_seating": "no",
+    "phone": "+73433011230",
+    "website": "https://shampuriko.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 12155265826,
+  "lat": 56.8229798,
+  "lon": 60.5044910,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "Marketing@teafunnyvl.ru",
+    "contact:phone": "+7 914 3331727",
+    "contact:website": "https://teafunny.ru",
+    "name": "Tea Funny",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12170385408,
+  "lat": 56.8368262,
+  "lon": 60.5916557,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "internet_access": "yes",
+    "name": "Yankee Sierra",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "outdoor_seating": "no",
+    "phone": "+7 (901) 469-08-19",
+    "website": "https://yankeesierra.ru/"
+  }
+},
+{
+  "type": "node",
+  "id": 12196587185,
+  "lat": 56.8361295,
+  "lon": 60.6160101,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "53",
+    "addr:street": "улица Малышева",
+    "amenity": "cafe",
+    "check_date": "2024-09-24",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "Свари мне кофе",
+    "opening_hours": "Mo-Fr 08:30-23:00; Sa-Su 09:00-23:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12196597739,
+  "lat": 56.8347517,
+  "lon": 60.6145137,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "11",
+    "addr:street": "улица Белинского",
+    "amenity": "cafe",
+    "check_date": "2024-09-24",
+    "cuisine": "korean",
+    "description": "Стилизован под k-pop группы",
+    "email": "pinkypop.cafe@yandex.ru",
+    "level": "0",
+    "name": "Pinky Pop",
+    "opening_hours": "11:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12196599997,
+  "lat": 56.8315074,
+  "lon": 60.6162226,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "41",
+    "addr:street": "улица Белинского",
+    "check_date": "2024-09-24",
+    "level": "0",
+    "name": "Violet",
+    "opening_hours": "09:00-21:00",
+    "shop": "confectionery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12198769403,
+  "lat": 56.8350716,
+  "lon": 60.6127866,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2024-09-25",
+    "level": "-1",
+    "name": "Креветки и бургеры",
+    "name:en": "Shrmps+brgrs",
+    "name:ru": "Креветки и бургеры",
+    "opening_hours": "11:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12234899959,
+  "lat": 56.8458589,
+  "lon": 60.6039976,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "Kosmos@supraekb.ru",
+    "contact:phone": "+7 343 2273273",
+    "contact:website": "https://supravl.ru/ekaterinburg",
+    "cuisine": "georgian",
+    "name": "Супра",
+    "opening_hours": "Mo-Su 12:00-00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12240873079,
+  "lat": 56.8364037,
+  "lon": 60.5879814,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "46",
+    "addr:street": "улица Сакко и Ванцетти",
+    "amenity": "cafe",
+    "check_date": "2025-12-03",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "Simple Coffee",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:sbp": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12244251840,
+  "lat": 56.8358784,
+  "lon": 60.5945933,
+  "tags": {
+    "addr:floor": "2",
+    "addr:housenumber": "12",
+    "addr:street": "улица Вайнера",
+    "amenity": "cafe",
+    "check_date": "2024-10-11",
+    "contact:telegram": "https://t.me/dongzi2023",
+    "cuisine": "chinese;asian",
+    "internet_access": "no",
+    "level": "1",
+    "name": "Дунцзы",
+    "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
+    "operator": "ООО «Дунцзы» ИНН 6679166399",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+7 906 808-01-68",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12246293692,
+  "lat": 56.8119530,
+  "lon": 60.6091262,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "121",
+    "addr:street": "улица 8 Марта",
+    "check_date": "2024-10-12",
+    "level": "0",
+    "name": "Алёнка",
+    "opening_hours": "09:00-21:00",
+    "shop": "confectionery",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12254549868,
+  "lat": 56.9167423,
+  "lon": 60.6136377,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "Marketing@teafunnyvl.ru",
+    "contact:phone": "+7 914 3331727",
+    "contact:website": "https://teafunny.ru",
+    "name": "Tea Funny",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12288120539,
+  "lat": 56.8302155,
+  "lon": 60.6009016,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "32",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "check_date": "2024-10-25",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "simple coffee",
+    "opening_hours": "08:30-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12288120540,
+  "lat": 56.8299007,
+  "lon": 60.6009295,
+  "tags": {
+    "addr:floor": "1",
+    "amenity": "cafe",
+    "check_date": "2024-10-25",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "Fix Cafe",
+    "opening_hours": "08:30-22:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12296511806,
+  "lat": 56.8431147,
+  "lon": 60.6429771,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 999 3421399",
+    "contact:website": "http://engelscoffee.ru",
+    "cuisine": "coffee_shop",
+    "name": "Engels",
+    "opening_hours": "Mo-Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12296520801,
+  "lat": 56.8447535,
+  "lon": 60.5923169,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 953 0568384",
+    "contact:website": "http://engelscoffee.ru",
+    "cuisine": "coffee_shop",
+    "name": "Engels",
+    "opening_hours": "Mo-Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12369318819,
+  "lat": 56.8935325,
+  "lon": 60.6161960,
+  "tags": {
+    "amenity": "cafe",
+    "contact:vk": "https://vk.com/siempre.churros",
+    "contact:website": "https://siempre-churros.clients.site",
+    "cuisine": "coffee_shop;spanish",
+    "name": "Siempre churros",
+    "phone": "+79221752260"
+  }
+},
+{
+  "type": "node",
+  "id": 12411011208,
+  "lat": 56.8329738,
+  "lon": 60.5818448,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "dedho.ekb1@yandex.ru",
+    "contact:phone": "+7 919 3874454",
+    "contact:website": "https://dedho.ru",
+    "cuisine": "vietnamese",
+    "name": "Дед Хо",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12441538964,
+  "lat": 56.8611695,
+  "lon": 60.6528232,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "11",
+    "addr:street": "улица Данилы Зверева",
+    "amenity": "cafe",
+    "check_date": "2024-12-09",
+    "cuisine": "coffee_shop",
+    "level": "0",
+    "name": "Gudmen Coffee",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12452792436,
+  "lat": 56.9043204,
+  "lon": 60.5608550,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 12514067070,
+  "lat": 56.8259446,
+  "lon": 60.5878215,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "90",
+    "addr:street": "улица Шейнкмана",
+    "amenity": "cafe",
+    "name": "Своя Компания"
+  }
+},
+{
+  "type": "node",
+  "id": 12522426667,
+  "lat": 56.7503052,
+  "lon": 60.8017033,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 922 1537224",
+    "contact:website": "https://aziatish.ru",
+    "name": "Aziatish BeerKitchen",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12558296051,
+  "lat": 56.7790862,
+  "lon": 60.7018199,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "3",
+    "addr:place": "Светлый микрорайон",
+    "check_date": "2025-02-05",
+    "contact:website": "https://hlebnichnaya.ru/",
+    "level": "0",
+    "name": "Хлебничная",
+    "shop": "bakery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12579157180,
+  "lat": 56.7568328,
+  "lon": 60.6737209,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "216",
+    "addr:street": "улица Щербакова",
+    "amenity": "cafe",
+    "name": "Drive Café",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 12581566453,
+  "lat": 56.8289453,
+  "lon": 60.5985473,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "Gagawagrinvich@yandex.ru",
+    "contact:phone": "+7 912 6453303",
+    "contact:website": "https://gagawa.ru",
+    "cuisine": "chicken",
+    "name": "Gagawa",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12600049350,
+  "lat": 56.8289718,
+  "lon": 60.5987029,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "Midiya.1@yandex.ru",
+    "contact:phone": "+7 912 0477757",
+    "contact:website": "https://www.midiynoe-mesto.ru",
+    "name": "Мидийное место",
+    "opening_hours": "Fr-Sa 12:00-23:00; Mo-Th,Su 12:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12600053766,
+  "lat": 56.8239877,
+  "lon": 60.5050936,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "info@lepimivarim.ru",
+    "contact:phone": "+7 999 5657719",
+    "contact:website": "https://lepimivarim.ru",
+    "cuisine": "russian",
+    "name": "Лепим и варим",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12600053768,
+  "lat": 56.8297540,
+  "lon": 60.5995723,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "info@lepimivarim.ru",
+    "contact:phone": "+7 912 2766160;+7 999 5857770",
+    "contact:website": "https://lepimivarim.ru",
+    "cuisine": "russian",
+    "name": "Лепим и варим",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12609465830,
+  "lat": 56.8124649,
+  "lon": 60.6030322,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Винтаж"
+  }
+},
+{
+  "type": "node",
+  "id": 12638676181,
+  "lat": 56.9166925,
+  "lon": 60.6139061,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "tmn_vl4manager@food-master.ru",
+    "contact:phone": "+7 343 3573222",
+    "contact:website": "https://vilka-lozhka.com",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 10:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12650982776,
+  "lat": 56.8312346,
+  "lon": 60.6035551,
+  "tags": {
+    "amenity": "cafe",
+    "cafe": "anticafe",
+    "contact:email": "antikafeautograph@yandex.ru",
+    "contact:phone": "+7 343 2070706",
+    "contact:vk": "https://vk.com/autographcafe",
+    "contact:website": "https://autographcafe.ru/",
+    "name": "Автограф",
+    "opening_hours": "Fr,Su 11:00-23:00; Sa 17:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12662697632,
+  "lat": 56.8321628,
+  "lon": 60.6132969,
+  "tags": {
+    "amenity": "cafe",
+    "contact:vk": "https://vk.com/coffee18plus",
+    "name": "Кофе 18+",
+    "phone": "+7 343 3712077"
+  }
+},
+{
+  "type": "node",
+  "id": 12662697649,
+  "lat": 56.7933875,
+  "lon": 60.5202927,
+  "tags": {
+    "amenity": "cafe",
+    "contact:vk": "https://vk.com/coffee18plus",
+    "fixme": "Уточнить расположение",
+    "name": "Кофе 18+",
+    "phone": "+7 343 3825865"
+  }
+},
+{
+  "type": "node",
+  "id": 12662703626,
+  "lat": 56.8529533,
+  "lon": 60.6450623,
+  "tags": {
+    "amenity": "cafe",
+    "contact:vk": "https://vk.com/coffee18plus",
+    "name": "Кофе 18+",
+    "phone": "+7 343 3624204"
+  }
+},
+{
+  "type": "node",
+  "id": 12662718085,
+  "lat": 56.8388210,
+  "lon": 60.6212286,
+  "tags": {
+    "amenity": "cafe",
+    "contact:vk": "https://vk.com/coffee18plus",
+    "name": "Кофе 18+",
+    "phone": "+7 343 3467196"
+  }
+},
+{
+  "type": "node",
+  "id": 12662741119,
+  "lat": 56.8299480,
+  "lon": 60.5664059,
+  "tags": {
+    "amenity": "cafe",
+    "contact:vk": "https://vk.com/coffee18plus",
+    "name": "Кофе 18+",
+    "phone": "+7 343 2315717"
+  }
+},
+{
+  "type": "node",
+  "id": 12740901244,
+  "lat": 56.7844523,
+  "lon": 60.5164585,
+  "tags": {
+    "contact:email": "help@vanlav.ru",
+    "contact:phone": "+7 909 0263571",
+    "contact:website": "https://vanlav.ru",
+    "name": "Ванлав",
+    "opening_hours": "Mo-Th 08:00-22:00",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 12759386855,
+  "lat": 56.8615744,
+  "lon": 60.6258998,
+  "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Основа кофе",
+    "website": "https://osnova-1717872352.clients.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 12759386860,
+  "lat": 56.8619884,
+  "lon": 60.6331944,
+  "tags": {
+    "name": "Семейная пекарня",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 08:00-21:00",
+    "phone": "+7 922 226-32-62",
+    "shop": "bakery",
+    "website": "https://семейнаяпекарня.рф/"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795470,
+  "lat": 56.8250239,
+  "lon": 60.6188330,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 343 2877721",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795471,
+  "lat": 56.8396276,
+  "lon": 60.5802897,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 343 2877726",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795472,
+  "lat": 56.8386064,
+  "lon": 60.6090886,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 343 2877726",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795473,
+  "lat": 56.8439201,
+  "lon": 60.6535835,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 963 2758551",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795474,
+  "lat": 56.9168433,
+  "lon": 60.6139409,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 343 2877726",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795475,
+  "lat": 56.8403743,
+  "lon": 60.6158556,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 904 9821861",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795476,
+  "lat": 56.8497376,
+  "lon": 60.6567889,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 912 2575904",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12799795477,
+  "lat": 56.8169947,
+  "lon": 60.6341189,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "frpekar@gmail.com",
+    "contact:phone": "+7 343 2877712",
+    "contact:website": "https://www.frpekar.ru/",
+    "name": "Французский Пекарь",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12809310986,
+  "lat": 56.7960790,
+  "lon": 60.4713725,
+  "tags": {
+    "amenity": "cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 12839737550,
+  "lat": 56.7549293,
+  "lon": 60.7030235,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "sovafriends66@yandex.ru",
+    "contact:phone": "+7 982 6364124",
+    "contact:website": "https://sovafriends.ru/",
+    "cuisine": "coffee_shop",
+    "name": "SOVAFriends",
+    "opening_hours": "Mo-Su 08:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12839737551,
+  "lat": 56.7546919,
+  "lon": 60.6923443,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "sovafriends66@yandex.ru",
+    "contact:phone": "+7 982 6364124",
+    "contact:website": "https://sovafriends.ru/",
+    "cuisine": "coffee_shop",
+    "name": "SOVAFriends",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 10:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12851646431,
+  "lat": 56.7837584,
+  "lon": 60.5199589,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Поль бейкери"
+  }
+},
+{
+  "type": "node",
+  "id": 12851646438,
+  "lat": 56.7882662,
+  "lon": 60.5177139,
+  "tags": {
+    "name": "Хлебничная",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 12870117799,
+  "lat": 56.7854088,
+  "lon": 60.5173811,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 912 2046464;+7 921 9602641",
+    "contact:website": "https://vaffel.ru",
+    "cuisine": "waffle",
+    "name": "Vaffel",
+    "opening_hours": "Mo-Su 10:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12946415984,
+  "lat": 56.8152426,
+  "lon": 60.6002248,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "66",
+    "addr:street": "улица Фурманова",
+    "amenity": "cafe",
+    "check_date": "2025-06-23",
+    "cuisine": "sushi",
+    "level": "0",
+    "name": "Big Roll",
+    "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00",
+    "outdoor_seating": "no",
+    "phone": "+7 343 288-51-28",
+    "website": "https://bigroll66.ru",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12994675715,
+  "lat": 56.8346588,
+  "lon": 60.6849428,
+  "tags": {
+    "name": "Вира",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13040873980,
+  "lat": 56.8281031,
+  "lon": 60.6087727,
+  "tags": {
+    "amenity": "cafe",
+    "contact:phone": "+7 904 9818570",
+    "contact:website": "https://engelscoffee.ru/",
+    "cuisine": "coffee_shop",
+    "name": "Engels",
+    "opening_hours": "Mo-Su 08:00-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13063206401,
+  "lat": 56.8498329,
+  "lon": 60.6845290,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Чебуречная"
+  }
+},
+{
+  "type": "node",
+  "id": 13064750803,
+  "lat": 56.8727071,
+  "lon": 60.5254463,
+  "tags": {
+    "name": "Пекарня \"Хлебничная\"",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13110565801,
+  "lat": 56.8414850,
+  "lon": 60.6600047,
+  "tags": {
+    "addr:housenumber": "53",
+    "addr:street": "Комсомольская улица",
+    "amenity": "cafe",
+    "cuisine": "chinese",
+    "name": "Мала цзянху",
+    "opening_hours": "Mo-Su 10:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13132417780,
+  "lat": 56.8560176,
+  "lon": 60.6064735,
+  "tags": {
+    "amenity": "cafe",
+    "contact:email": "moscowpr@frankbybasta.com",
+    "contact:phone": "+7 343 3003696",
+    "contact:website": "https://frankmeat.ru",
+    "cuisine": "beef",
+    "name": "Frank by Баста",
+    "opening_hours": "Mo-Su 12:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13192252101,
+  "lat": 56.8385504,
+  "lon": 60.6113321,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "38А",
+    "addr:street": "проспект Ленина",
+    "amenity": "cafe",
+    "internet_access": "wlan",
+    "name": "Вилка-ложка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-20:00",
+    "phone": "+7 (343) 357-30-52",
+    "website": "https://vilka-lozhka.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13196003391,
+  "lat": 56.8250284,
+  "lon": 60.5494449,
+  "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "77",
+    "addr:street": "улица Репина",
+    "amenity": "cafe",
+    "check_date": "2025-10-05",
+    "cuisine": "coffee_shop",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Кот&Кофе",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13240755443,
+  "lat": 56.8257835,
+  "lon": 60.6029750,
+  "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "62",
+    "addr:street": "улица 8 Марта",
+    "amenity": "cafe",
+    "name": "Forum cafe.",
+    "opening_hours": "08:00-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13296317601,
+  "lat": 56.8344688,
+  "lon": 60.6896391,
+  "tags": {
+    "name": "bakery and cheap coffee",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13335182994,
+  "lat": 56.8534968,
+  "lon": 60.6438411,
+  "tags": {
+    "name": "Хлебничная",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13350367895,
+  "lat": 56.8331246,
+  "lon": 60.5929843,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2025-12-03",
+    "cuisine": "chinese",
+    "name": "Jackie"
+  }
+},
+{
+  "type": "node",
+  "id": 13390390501,
+  "lat": 56.8286256,
+  "lon": 60.5945413,
+  "tags": {
+    "addr:housenumber": "63",
+    "addr:street": "улица Хохрякова",
+    "amenity": "cafe",
+    "contact:telegram": "https://t.me/lifemart_ru",
+    "contact:website": "http://www.zm.lifemart.ru",
+    "cuisine": "beef_bowl;breakfast;bubble_tea;burger;chicken;coffee_shop;deli",
+    "name": "Жизнь Март",
+    "opening_hours": "24/7",
+    "phone": "88006000315",
+    "website:menu": "https://lifemart.ru/ru/ekb"
+  }
+}
+
+  ]
+}

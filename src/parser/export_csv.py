@@ -10,7 +10,7 @@ cursor.execute("SELECT * FROM bakeries")
 rows = cursor.fetchall()
 columns = [description[0] for description in cursor.description]
 
-with open("bakeries.csv", "w", newline="", encoding="utf-8") as f:
+with open("../../csv/bakeries.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(columns)  # заголовки
     writer.writerows(rows)
@@ -22,7 +22,7 @@ cursor.execute("SELECT * FROM infrastructure")
 rows = cursor.fetchall()
 columns = [description[0] for description in cursor.description]
 
-with open("infrastructure.csv", "w", newline="", encoding="utf-8") as f:
+with open("../../csv/infrastructure.csv", "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(columns)  # заголовки
     writer.writerows(rows)
