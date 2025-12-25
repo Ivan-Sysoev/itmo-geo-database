@@ -22,18 +22,23 @@ CREATE TABLE IF NOT EXISTS bakeries (
 with open(json_file, "r", encoding="utf-8") as f:
     data = json.load(f)
 
+unknowns_count = 0
 for el in data.get("elements", []):
     tags = el.get("tags", {})
-    name = tags.get("name", "Unknown")
+    name = tags.get("name", None)
     lat = el.get("lat")
     lon = el.get("lon")
     
-    cursor.execute(
-        "INSERT INTO bakeries (name, latitude, longitude) VALUES (?, ?, ?)",
-        (name, lat, lon)
-    )
+    if name:
+        cursor.execute(
+            "INSERT INTO bakeries (name, latitude, longitude) VALUES (?, ?, ?)",
+            (name, lat, lon)
+        )
+    else:
+        unknowns_count += 1
 
 conn.commit()
 conn.close()
 
 print("Данные успешно записаны в SQLite")
+print("Количество Unknown пекарен: ", unknowns_count)
