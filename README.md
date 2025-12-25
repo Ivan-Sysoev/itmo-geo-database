@@ -27,7 +27,7 @@ bakeries (
 ```sql
 infrastructure (
     id SERIAL PRIMARY KEY,
-    type TEXT,
+    type TEXT,           -- metro / bus_stop / tram_stop
     name TEXT,
     latitude DOUBLE PRECISION,
     longitude DOUBLE PRECISION
@@ -38,10 +38,9 @@ infrastructure (
 
 ```sql
 bakery_proximity (
-    bakery_id INT REFERENCES bakeries(id),
-    infrastructure_id INT REFERENCES infrastructure(id),
-    distance_meters DOUBLE PRECISION,
-    PRIMARY KEY (bakery_id, infrastructure_id)
+    bakery_id INTEGER REFERENCES bakeries(id),
+    infrastructure_id INTEGER REFERENCES infrastructure(id),
+    distance_meters DOUBLE PRECISION
 )
 ```
 
@@ -49,11 +48,41 @@ bakery_proximity (
 
 Получение данных и запись в базу данных будет происходить с помощью:
 * Языка программирования `Python` и библиотеки `requests`
+* [`GUI Overpass Turbo`](https://overpass-turbo.eu/)
 
 ## Анализ и визуализация данных 
 
 Анализ данных будет проводиться при помощи:
-* `языка SQL`
+* `Языка SQL`
+* `Субд SQLite`
 
 Визуализация данных при помощи:
 * `Yandex DataLens`
+
+## Overpass API queries
+
+1. Пекарни:
+
+```js
+[out:json][timeout:50];
+area["name"="Екатеринбург"]->.city;
+(
+  node["shop"="bakery"](area.city);
+  node["shop"="coffee"](area.city);
+  node["shop"="confectionery"](area.city);
+  node["amenity"="cafe"](area.city);
+);
+out body;
+```
+
+2. Станции метро и Остановки общественного транспорта
+
+```js
+[out:json][timeout:50];
+area["name"="Екатеринбург"]->.city;
+(
+  node["railway"="station"]["station"="subway"];
+  node["public_transport"="stop_position"];
+);
+out body;
+```
